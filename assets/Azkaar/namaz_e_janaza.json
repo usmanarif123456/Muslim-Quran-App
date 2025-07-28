@@ -1,0 +1,63 @@
+{
+  "category": "Janazah",
+  "title": "Namaz-e-Janazah",
+  "description": "Funeral prayer for a deceased Muslim",
+  "verses": [
+    {
+      "step": 1,
+      "type": "Takbeer",
+      "arabic": "اللَّهُ أَكْبَرُ",
+      "urdu": "اللہ سب سے بڑا ہے۔",
+      "english": "Allah is the Greatest."
+    },
+    {
+      "step": 2,
+      "type": "Thana (Opening Supplication)",
+      "arabic": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ وَتَبَارَكَ اسْمُكَ وَتَعَالَى جَدُّكَ وَلَا إِلٰهَ غَيْرُكَ",
+      "urdu": "اے اللہ! تو پاک ہے، تیری حمد کے ساتھ، تیرا نام بابرکت ہے، تیری شان بلند ہے اور تیرے سوا کوئی معبود نہیں۔",
+      "english": "O Allah! You are pure, all praise is for You. Blessed is Your Name, exalted is Your Majesty, and there is no deity besides You."
+    },
+    {
+      "step": 3,
+      "type": "Takbeer",
+      "arabic": "اللَّهُ أَكْبَرُ",
+      "urdu": "اللہ سب سے بڑا ہے۔",
+      "english": "Allah is the Greatest."
+    },
+    {
+      "step": 4,
+      "type": "Salawat (Durood-e-Ibrahim)",
+      "arabic": "اللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَعَلَىٰ آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَىٰ إِبْرَاهِيمَ وَعَلَىٰ آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ. اللَّهُمَّ بَارِكْ عَلَىٰ مُحَمَّدٍ وَعَلَىٰ آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَىٰ إِبْرَاهِيمَ وَعَلَىٰ آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ.",
+      "urdu": "اے اللہ! محمد ﷺ اور آل محمد پر رحمت نازل فرما جیسے تو نے ابراہیم اور آل ابراہیم پر رحمت نازل فرمائی۔ بے شک تو تعریف کے لائق بزرگی والا ہے۔ اے اللہ! محمد ﷺ اور آل محمد پر برکت نازل فرما جیسے تو نے ابراہیم اور آل ابراہیم پر برکت نازل فرمائی، بے شک تو تعریف کے لائق بزرگی والا ہے۔",
+      "english": "O Allah! Send blessings upon Muhammad ﷺ and the family of Muhammad ﷺ as You sent blessings upon Ibrahim and the family of Ibrahim. Indeed, You are Praiseworthy and Glorious. O Allah! Bless Muhammad ﷺ and the family of Muhammad ﷺ as You blessed Ibrahim and the family of Ibrahim. Indeed, You are Praiseworthy and Glorious."
+    },
+    {
+      "step": 5,
+      "type": "Takbeer",
+      "arabic": "اللَّهُ أَكْبَرُ",
+      "urdu": "اللہ سب سے بڑا ہے۔",
+      "english": "Allah is the Greatest."
+    },
+    {
+      "step": 6,
+      "type": "Dua for the deceased",
+      "arabic": "اللَّهُمَّ اغْفِرْ لِحَيِّنَا وَمَيِّتِنَا وَشَاهِدِنَا وَغَائِبِنَا وَصَغِيرِنَا وَكَبِيرِنَا وَذَكَرِنَا وَأُنْثَانَا، اللَّهُمَّ مَنْ أَحْيَيْتَهُ مِنَّا فَأَحْيِهِ عَلَى الْإِسْلَامِ، وَمَنْ تَوَفَّيْتَهُ مِنَّا فَتَوَفَّهُ عَلَى الْإِيمَانِ.",
+      "urdu": "اے اللہ! ہمارے زندوں، مردوں، حاضروں، غائبوں، بچوں، بڑوں، مردوں اور عورتوں کو بخش دے۔ جسے تو زندہ رکھے اسے اسلام پر زندہ رکھ اور جسے تو وفات دے اسے ایمان پر وفات دے۔",
+      "english": "O Allah! Forgive our living and our dead, those present and those absent, our young and our old, our males and our females. O Allah! Whomever You give life from among us, give them life upon Islam, and whomever You cause to die from among us, cause them to die upon faith."
+    },
+    {
+      "step": 7,
+      "type": "Takbeer",
+      "arabic": "اللَّهُ أَكْبَرُ",
+      "urdu": "اللہ سب سے بڑا ہے۔",
+      "english": "Allah is the Greatest."
+    },
+    {
+      "step": 8,
+      "type": "Salam",
+      "arabic": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ",
+      "urdu": "تم پر سلامتی اور اللہ کی رحمت ہو۔",
+      "english": "Peace and mercy of Allah be upon you."
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+[
+    {
+      "id": 1,
+      "category": "Night",
+      "title": "Before Sleeping",
+      "context": "Recite before sleeping",
+      "arabic": "بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا",
+      "urdu": "اے اللہ! میں تیرے نام کے ساتھ مرتا اور جیتا ہوں۔",
+      "english": "In Your name, O Allah, I die and I live."
+    },
+    {
+      "id": 2,
+      "category": "Night",
+      "title": "Dua Before Sleep",
+      "context": "Protection during sleep",
+      "arabic": "اللَّهُمَّ قِنِي عَذَابَكَ يَوْمَ تَبْعَثُ عِبَادَكَ",
+      "urdu": "اے اللہ! مجھے اس دن کے عذاب سے بچا جب تو اپنے بندوں کو اٹھائے گا۔",
+      "english": "O Allah, protect me from Your punishment on the Day You resurrect Your slaves."
+    },
+    {
+      "id": 3,
+      "category": "Night",
+      "title": "Forgiveness at Night",
+      "context": "Ask for forgiveness before sleeping",
+      "arabic": "اللَّهُمَّ اغْفِرْ لِي وَارْحَمْنِي",
+      "urdu": "اے اللہ! مجھے معاف کر دے اور مجھ پر رحم فرما۔",
+      "english": "O Allah, forgive me and have mercy on me."
+    },
+    {
+      "id": 4,
+      "category": "Night",
+      "title": "Thanking Allah for the Day",
+      "context": "Be grateful before bed",
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا",
+      "urdu": "تمام تعریفیں اللہ کے لیے ہیں جس نے ہمیں موت کے بعد زندگی دی۔",
+      "english": "All praise is for Allah who gave us life after causing us to die."
+    },
+    {
+      "id": 5,
+      "category": "Night",
+      "title": "Protection from Bad Dreams",
+      "context": "Before sleep for protection",
+      "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْكَوَابِيسِ",
+      "urdu": "اے اللہ! میں تجھ سے برے خوابوں سے پناہ مانگتا ہوں۔",
+      "english": "O Allah, I seek refuge with You from nightmares."
+    },
+    {
+      "id": 6,
+      "category": "Night",
+      "title": "Reading Ayat-ul-Kursi",
+      "context": "Before sleeping for protection",
+      "arabic": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ...",
+      "urdu": "اللہ وہ ہے جس کے سوا کوئی معبود نہیں، زندہ اور قائم رہنے والا...",
+      "english": "Allah! There is no deity except Him, the Ever-Living, the Sustainer of [all] existence..."
+    },
+    {
+      "id": 7,
+      "category": "Night",
+      "title": "Dua for Night Peace",
+      "context": "Seeking calmness in the night",
+      "arabic": "اللَّهُمَّ اجْعَلْ هَذِهِ اللَّيْلَةَ سَكِينَةً",
+      "urdu": "اے اللہ! اس رات کو سکون والی بنا دے۔",
+      "english": "O Allah, make this night peaceful."
+    },
+    {
+      "id": 8,
+      "category": "Night",
+      "title": "Praise Allah Before Sleep",
+      "context": "End day with praise",
+      "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+      "urdu": "اللہ پاک ہے اور اس کی حمد کے ساتھ۔",
+      "english": "Glory is to Allah and praise is to Him."
+    },
+    {
+      "id": 9,
+      "category": "Night",
+      "title": "Dua for Night Protection",
+      "context": "Asking for safety during night",
+      "arabic": "اللَّهُمَّ احْفَظْنِي مِنْ كُلِّ سُوءٍ فِي اللَّيْلِ",
+      "urdu": "اے اللہ! مجھے رات کی ہر برائی سے محفوظ رکھ۔",
+      "english": "O Allah, protect me from all evil during the night."
+    },
+    {
+      "id": 10,
+      "category": "Night",
+      "title": "Reading Last Two Ayahs of Surah Baqarah",
+      "context": "Protection through Qur'an",
+      "arabic": "آمَنَ الرَّسُولُ بِمَا أُنزِلَ إِلَيْهِ...",
+      "urdu": "رسول اس پر ایمان لایا جو اس پر نازل ہوا...",
+      "english": "The Messenger has believed in what was revealed to him..."
+    },
+    {
+      "id": 11,
+      "category": "Night",
+      "title": "Dua for Dreams to Be Good",
+      "context": "Protection from bad dreams",
+      "arabic": "اللَّهُمَّ اجْعَلْ أَحْلَامَنَا خَيْرًا",
+      "urdu": "اے اللہ! ہمارے خوابوں کو اچھا بنا دے۔",
+      "english": "O Allah, make our dreams good."
+    },
+    {
+      "id": 12,
+      "category": "Night",
+      "title": "Seeking Forgiveness for the Day",
+      "context": "End of day repentance",
+      "arabic": "أَسْتَغْفِرُ اللَّهَ وَأَتُوبُ إِلَيْهِ",
+      "urdu": "میں اللہ سے معافی مانگتا ہوں اور اس کی طرف رجوع کرتا ہوں۔",
+      "english": "I seek forgiveness from Allah and turn to Him."
+    },
+    {
+      "id": 13,
+      "category": "Night",
+      "title": "Placing Trust in Allah",
+      "context": "Sleep with tawakkul",
+      "arabic": "تَوَكَّلْتُ عَلَى اللَّهِ",
+      "urdu": "میں نے اللہ پر بھروسہ کیا۔",
+      "english": "I place my trust in Allah."
+    },
+    {
+      "id": 14,
+      "category": "Night",
+      "title": "Dua to Sleep with Clean Heart",
+      "context": "Purify heart before bed",
+      "arabic": "اللَّهُمَّ طَهِّرْ قَلْبِي مِنَ الْغِلِّ وَالْحَسَدِ",
+      "urdu": "اے اللہ! میرے دل کو کینہ اور حسد سے پاک فرما۔",
+      "english": "O Allah, purify my heart from resentment and envy."
+    },
+    {
+      "id": 15,
+      "category": "Night",
+      "title": "Remembering Allah at Night",
+      "context": "Remembrance before sleeping",
+      "arabic": "اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ",
+      "urdu": "اللہ سب سے بڑا ہے، اللہ سب سے بڑا ہے۔",
+      "english": "Allah is the Greatest, Allah is the Greatest."
+    },
+    {
+      "id": 16,
+      "category": "Night",
+      "title": "Dua for Night Mercy",
+      "context": "Asking Allah's mercy at night",
+      "arabic": "اللَّهُمَّ ارْحَمْنِي فِي لَيْلَتِي",
+      "urdu": "اے اللہ! میری رات میں مجھ پر رحم فرما۔",
+      "english": "O Allah, have mercy on me during my night."
+    },
+    {
+      "id": 17,
+      "category": "Night",
+      "title": "Dua for Peaceful Household at Night",
+      "context": "Praying for family’s peace",
+      "arabic": "اللَّهُمَّ اجْعَلْ بَيْتِي سَكِينَةً",
+      "urdu": "اے اللہ! میرے گھر کو سکون کا گہوارہ بنا دے۔",
+      "english": "O Allah, make my home a place of peace."
+    },
+    {
+      "id": 18,
+      "category": "Night",
+      "title": "Praise in Darkness",
+      "context": "Even in darkness, remember Allah",
+      "arabic": "سُبْحَانَ اللَّهِ فِي الظُّلْمَةِ",
+      "urdu": "اندھیروں میں اللہ پاک ہے۔",
+      "english": "Glory be to Allah in the darkness."
+    },
+    {
+      "id": 19,
+      "category": "Night",
+      "title": "Dua for Health While Sleeping",
+      "context": "Praying for health at night",
+      "arabic": "اللَّهُمَّ احْفَظْ صِحَّتِي فِي نَوْمِي",
+      "urdu": "اے اللہ! نیند میں میری صحت کی حفاظت فرما۔",
+      "english": "O Allah, protect my health while I sleep."
+    },
+    {
+      "id": 20,
+      "category": "Night",
+      "title": "Dua for Allah’s Light",
+      "context": "Asking for guidance in darkness",
+      "arabic": "اللَّهُمَّ اجْعَلْ نُورَكَ مَعِي فِي هَذِهِ اللَّيْلَةِ",
+      "urdu": "اے اللہ! اپنی روشنی کو میری رات میں شامل فرما۔",
+      "english": "O Allah, make Your light with me this night."
+    }
+  ]
+  

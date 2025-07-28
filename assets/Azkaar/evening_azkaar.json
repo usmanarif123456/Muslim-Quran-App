@@ -1,0 +1,351 @@
+[
+    {
+      "id": 1,
+      "category": "Evening",
+      "title": "Sayyidul Istighfar",
+      "context": "Best supplication for forgiveness in the evening",
+      "arabic": "اللّهُـمَّ أَنْتَ رَبِّـي، لا إِلـهَ إِلاّ أَنْتَ، خَلَقْتَني وَأَنا عَبْـدُك...",
+      "urdu": "اے اللہ! تو ہی میرا رب ہے، تیرے سوا کوئی معبود نہیں، تو نے مجھے پیدا کیا اور میں تیرا بندہ ہوں...",
+      "english": "O Allah! You are my Lord, none has the right to be worshipped except You. You created me and I am Your servant..."
+    },
+    {
+      "id": 2,
+      "category": "Evening",
+      "title": "Protection from Evil",
+      "context": "Seeking refuge from evil during evening",
+      "arabic": "اللّهُـمَّ إِنِّي أَعـوذُ بِكَ مِنَ الْكُـفْرِ وَالْفَـقْرِ، وَأَعـوذُ بِكَ مِنْ عَذابِ الْقَـبْر.",
+      "urdu": "اے اللہ! میں کفر اور فقر سے، اور قبر کے عذاب سے تیری پناہ مانگتا ہوں۔",
+      "english": "O Allah! I seek refuge in You from disbelief and poverty, and I seek refuge in You from the punishment of the grave."
+    },
+    {
+      "id": 3,
+      "category": "Evening",
+      "title": "Evening Dhikr",
+      "context": "Evening remembrance of Allah",
+      "arabic": "اللّهُـمَّ بِكَ أَمْسَيْـنا، وَبِكَ أَصْبَـحْنا، وَبِكَ نَحْـيا، وَبِكَ نَمـوتُ، وَإِلَيْـكَ الْمَصِيْر.",
+      "urdu": "اے اللہ! تیرے ہی ساتھ ہم نے شام کی، تیرے ہی ساتھ صبح کی، تیرے ہی ساتھ جیتے اور مرتے ہیں، اور تیری ہی طرف لوٹنا ہے۔",
+      "english": "O Allah! With Your help we have reached the evening and with Your help we reach the morning, and with Your help we live and die, and to You is our return."
+    },
+    {
+      "id": 4,
+      "category": "Evening",
+      "title": "Peaceful Evening",
+      "context": "Invoking peace and protection in the evening",
+      "arabic": "اللّهُـمَّ اجْعَـلْ لي في قَلْبـي نُـورًا، وَفـي لِسـاني نُـورًا...",
+      "urdu": "اے اللہ! میرے دل میں نور عطا فرما، میری زبان میں نور عطا فرما...",
+      "english": "O Allah, place light in my heart and light upon my tongue..."
+    },
+    {
+      "id": 5,
+      "category": "Evening",
+      "title": "Remembrance of Death",
+      "context": "Mindfulness of death in the evening",
+      "arabic": "اللّهُـمَّ إِنِّي أَسْأَلُـكَ حُسْنَ الْخاتِمَة.",
+      "urdu": "اے اللہ! میں تجھ سے بہترین انجام کا سوال کرتا ہوں۔",
+      "english": "O Allah! I ask You for a good end."
+    },
+    {
+      "id": 6,
+      "category": "Evening",
+      "title": "Gratitude at Dusk",
+      "context": "Thanking Allah for another day",
+      "arabic": "الْـحَمْدُ للهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ.",
+      "urdu": "تمام تعریفیں اس اللہ کے لیے ہیں جس نے ہمیں موت کے بعد زندہ کیا، اور اسی کی طرف لوٹ کر جانا ہے۔",
+      "english": "All praise is for Allah who gave us life after causing us to die, and to Him is the resurrection."
+    },
+    {
+      "id": 7,
+      "category": "Evening",
+      "title": "Seeking Refuge from Calamities",
+      "context": "To be safe from troubles at night",
+      "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ...",
+      "urdu": "اے اللہ! میں تجھ سے پریشانی اور غم سے پناہ مانگتا ہوں...",
+      "english": "O Allah! I seek refuge in You from worry and grief..."
+    },
+    {
+      "id": 8,
+      "category": "Evening",
+      "title": "Evening Forgiveness",
+      "context": "Asking for forgiveness in the evening",
+      "arabic": "أَسْتَغْفِرُ اللّٰهَ الَّذِي لاَ إِلٰهَ إِلاَّ هُوَ الْحَيُّ الْقَيُّوْمُ وَأَتُوْبُ إِلَيْهِ.",
+      "urdu": "میں اللہ سے مغفرت مانگتا ہوں، جس کے سوا کوئی معبود نہیں، وہ زندہ اور قائم دائم ہے، اور میں اس کی طرف توبہ کرتا ہوں۔",
+      "english": "I seek forgiveness from Allah, there is no deity except Him, the Ever-Living, the Sustainer, and I turn to Him in repentance."
+    },
+    {
+      "id": 9,
+      "category": "Evening",
+      "title": "Supplication for Contentment",
+      "context": "Evening prayer for inner peace",
+      "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الرَّاضِينَ بِقَضَائِكَ.",
+      "urdu": "اے اللہ! مجھے اپنے فیصلے پر راضی رہنے والوں میں شامل فرما۔",
+      "english": "O Allah! Make me among those who are pleased with Your decree."
+    },
+    {
+      "id": 10,
+      "category": "Evening",
+      "title": "Protection from Night Harm",
+      "context": "Safety from jinn and humans",
+      "arabic": "بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ...",
+      "urdu": "اللہ کے نام سے شروع کرتا ہوں، جس کے نام کے ساتھ زمین و آسمان کی کوئی چیز نقصان نہیں دے سکتی...",
+      "english": "In the name of Allah, with whose name nothing on earth or in the heavens can cause harm..."
+    },
+    {
+      "id": 11,
+      "category": "Evening",
+      "title": "Praise for Allah",
+      "context": "Praising Allah in the evening",
+      "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ، عَدَدَ خَلْقِهِ...",
+      "urdu": "اللہ پاک ہے اور اس کی حمد کے ساتھ، اس کی مخلوق کے عدد کے برابر...",
+      "english": "Glory is to Allah and praise to Him by the number of His creation..."
+    },
+    {
+      "id": 12,
+      "category": "Evening",
+      "title": "Evening Peace",
+      "context": "Sending peace upon the Prophet ﷺ in evening",
+      "arabic": "اللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَعَلَىٰ آلِ مُحَمَّدٍ...",
+      "urdu": "اے اللہ! محمد ﷺ اور ان کی آل پر درود و سلام نازل فرما...",
+      "english": "O Allah, send blessings upon Muhammad ﷺ and the family of Muhammad ﷺ..."
+    },
+    {
+      "id": 13,
+      "category": "Evening",
+      "title": "Trust in Allah",
+      "context": "Declaring trust in Allah at night",
+      "arabic": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ.",
+      "urdu": "اللہ ہمارے لیے کافی ہے اور وہ بہترین کارساز ہے۔",
+      "english": "Allah is sufficient for us and He is the best disposer of affairs."
+    },
+    {
+      "id": 14,
+      "category": "Evening",
+      "title": "Evening Protection from Shaytan",
+      "context": "Shielding oneself from satanic whispers",
+      "arabic": "أَعُوذُ بِكَلِمَاتِ اللهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ.",
+      "urdu": "میں اللہ کے کامل کلمات کے ذریعے ہر مخلوق کے شر سے پناہ مانگتا ہوں۔",
+      "english": "I seek refuge in the perfect words of Allah from the evil of what He has created."
+    },
+    {
+      "id": 15,
+      "category": "Evening",
+      "title": "Acknowledging Blessings",
+      "context": "Evening gratitude for blessings",
+      "arabic": "اللَّهُمَّ مَا أَصْبَحَ بِي مِنْ نِعْمَةٍ فَمِنْكَ وَحْدَكَ...",
+      "urdu": "اے اللہ! جو بھی نعمت میرے پاس ہے وہ صرف تیری طرف سے ہے...",
+      "english": "O Allah, whatever blessing I have this evening is from You alone..."
+    }
+    ,
+        {
+          "id": 16,
+          "category": "Evening",
+          "title": "Evening Declaration of Monotheism",
+          "context": "Affirming belief in Allah alone",
+          "arabic": "اللّهُـمَّ أَنْتَ رَبِّـي، لا إِلـهَ إِلاّ أَنْتَ...",
+          "urdu": "اے اللہ! تو ہی میرا رب ہے، تیرے سوا کوئی معبود نہیں...",
+          "english": "O Allah! You are my Lord, none has the right to be worshipped except You..."
+        },
+        {
+          "id": 17,
+          "category": "Evening",
+          "title": "Seeking Protection in the Evening",
+          "context": "To stay safe from all harm at night",
+          "arabic": "بِسْمِ اللّٰہِ الَّذِی لَا یَضُرُّ مَعَ اسْمِہِ شَیْءٌ...",
+          "urdu": "اللہ کے نام کے ساتھ، جس کے نام کے ساتھ کوئی چیز نقصان نہیں دے سکتی...",
+          "english": "In the Name of Allah with Whose Name nothing can harm..."
+        },
+        {
+          "id": 18,
+          "category": "Evening",
+          "title": "Evening Praise of Allah",
+          "context": "Praising Allah in the evening",
+          "arabic": "سُبْحَانَ اللّٰہِ وَبِحَمْدِہِ، سُبْحَانَ اللّٰہِ الْعَظِیْمِ",
+          "urdu": "اللہ پاک ہے اور اسی کی حمد ہے، اللہ بہت عظیم ہے۔",
+          "english": "Glory be to Allah and all praise is due to Him, Allah is the Most Great."
+        },
+        {
+          "id": 19,
+          "category": "Evening",
+          "title": "Evening Gratitude",
+          "context": "Thanking Allah after sunset",
+          "arabic": "الْحَمْدُ لِلّٰہِ الَّذِی أَحْیَانَا بَعْدَ مَا أَمَاتَنَا...",
+          "urdu": "تمام تعریفیں اللہ کے لیے ہیں جس نے ہمیں موت کے بعد زندگی دی...",
+          "english": "All praise is due to Allah, Who gave us life after having taken it from us..."
+        },
+        {
+          "id": 20,
+          "category": "Evening",
+          "title": "Protection from Evil",
+          "context": "To safeguard from evil of creation in the night",
+          "arabic": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ...",
+          "urdu": "کہو میں پناہ مانگتا ہوں فلق کے رب کی...",
+          "english": "Say: I seek refuge with the Lord of the daybreak..."
+        },
+        {
+          "id": 21,
+          "category": "Evening",
+          "title": "Evening Refuge from Shaytan",
+          "context": "Protection from the devil",
+          "arabic": "أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+          "urdu": "میں اللہ کے کامل کلمات کے ساتھ پناہ مانگتا ہوں ہر مخلوق کی برائی سے۔",
+          "english": "I seek refuge in the perfect words of Allah from the evil of what He has created."
+        },
+        {
+          "id": 22,
+          "category": "Evening",
+          "title": "Evening Affirmation of Tawheed",
+          "context": "Reinforcing monotheism in the evening",
+          "arabic": "لَا إِلٰهَ إِلَّا اللّٰهُ وَحْدَهُ لَا شَرِيكَ لَهُ...",
+          "urdu": "اللہ کے سوا کوئی معبود نہیں، وہ اکیلا ہے، اس کا کوئی شریک نہیں...",
+          "english": "There is no deity but Allah alone, He has no partner..."
+        },
+        {
+          "id": 23,
+          "category": "Evening",
+          "title": "Evening Peace Invocation",
+          "context": "Asking peace and mercy for the evening",
+          "arabic": "اللّهُـمَّ أَنْزِلْ عَلَيْنَا سَكِينَتَكَ وَرَحْمَتَكَ",
+          "urdu": "اے اللہ! ہم پر اپنی سکون اور رحمت نازل فرما۔",
+          "english": "O Allah, send down Your tranquility and mercy upon us."
+        },
+        {
+          "id": 24,
+          "category": "Evening",
+          "title": "Evening Light Supplication",
+          "context": "Ask Allah for guidance through darkness",
+          "arabic": "اللّهُـمَّ اجْعَلْ فِي قَلْبِي نُورًا...",
+          "urdu": "اے اللہ! میرے دل میں نور پیدا فرما...",
+          "english": "O Allah, place light in my heart..."
+        },
+        {
+          "id": 25,
+          "category": "Evening",
+          "title": "Evening Affirmation of Faith",
+          "context": "Renewing belief in Allah",
+          "arabic": "آمَنْتُ بِاللّٰہِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ...",
+          "urdu": "میں ایمان لایا اللہ پر، اس کے فرشتوں پر، اس کی کتابوں پر، اور اس کے رسولوں پر...",
+          "english": "I believe in Allah, His angels, His books, and His messengers..."
+        },
+        {
+          "id": 26,
+          "category": "Evening",
+          "title": "Evening Gratitude Reminder",
+          "context": "Remembering Allah’s blessings at night",
+          "arabic": "اللّهُمَّ مَا أَصْبَحَ بِي مِنْ نِعْمَةٍ...",
+          "urdu": "اے اللہ! جو بھی نعمت میرے پاس ہے وہ تیرے ہی فضل سے ہے...",
+          "english": "O Allah, whatever blessing I or any of Your creation has risen upon is from You alone..."
+        },
+        {
+          "id": 27,
+          "category": "Evening",
+          "title": "Evening Contentment",
+          "context": "Seeking satisfaction with Allah’s decree",
+          "arabic": "رَضِيتُ بِاللّٰهِ رَبًّا...",
+          "urdu": "میں راضی ہوں اللہ کو رب مان کر...",
+          "english": "I am content with Allah as my Lord..."
+        },
+        {
+          "id": 28,
+          "category": "Evening",
+          "title": "Evening Repentance",
+          "context": "Asking for forgiveness in the evening",
+          "arabic": "أَسْتَغْفِرُ اللّٰهَ وَأَتُوبُ إِلَيْهِ",
+          "urdu": "میں اللہ سے معافی مانگتا ہوں اور اس کی طرف توبہ کرتا ہوں۔",
+          "english": "I seek forgiveness from Allah and repent to Him."
+        },
+        {
+          "id": 29,
+          "category": "Evening",
+          "title": "Evening Calmness",
+          "context": "For inner peace in the night",
+          "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الصَّابِرِينَ",
+          "urdu": "اے اللہ! مجھے صبر کرنے والوں میں شامل فرما۔",
+          "english": "O Allah! Make me among those who are patient."
+        },
+        {
+          "id": 30,
+          "category": "Evening",
+          "title": "Evening Praise & Thanks",
+          "context": "Gratitude before sleeping",
+          "arabic": "الْحَمْدُ لِلّٰہِ الَّذِي أَطْعَمَنَا وَسَقَانَا...",
+          "urdu": "تمام تعریفیں اس اللہ کے لیے ہیں جس نے ہمیں کھلایا پلایا...",
+          "english": "All praise is due to Allah who fed us and gave us drink..."
+        }
+        ,
+            {
+              "id": 31,
+              "category": "Evening",
+              "title": "Seeking Shelter from Hellfire",
+              "context": "Evening supplication to avoid Hellfire",
+              "arabic": "اللَّهُمَّ أَجِرْنِي مِنَ النَّارِ.",
+              "urdu": "اے اللہ! مجھے آگ سے بچا لے۔",
+              "english": "O Allah, save me from the Fire."
+            },
+            {
+              "id": 32,
+              "category": "Evening",
+              "title": "Protection for Family",
+              "context": "Evening dua for the family’s safety",
+              "arabic": "اللَّهُمَّ احْفَظْ أَهْلِي وَمَالِي وَوَلَدِي.",
+              "urdu": "اے اللہ! میرے اہل و عیال، مال اور اولاد کی حفاظت فرما۔",
+              "english": "O Allah, protect my family, wealth, and children."
+            },
+            {
+              "id": 33,
+              "category": "Evening",
+              "title": "Gratitude for Evening Blessings",
+              "context": "Thanking Allah in the evening",
+              "arabic": "الْحَمْدُ لِلَّهِ عَلَى نِعْمَتِهِ وَفَضْلِهِ.",
+              "urdu": "اللہ کی نعمتوں اور فضل پر شکر ہے۔",
+              "english": "All praise is due to Allah for His blessings and bounty."
+            },
+            {
+              "id": 34,
+              "category": "Evening",
+              "title": "Peace from Allah",
+              "context": "Evening request for peace and tranquility",
+              "arabic": "اللَّهُمَّ أَنْزِلْ السَّكِينَةَ فِي قَلْبِي.",
+              "urdu": "اے اللہ! میرے دل میں سکون نازل فرما۔",
+              "english": "O Allah, place tranquility in my heart."
+            },
+            {
+              "id": 35,
+              "category": "Evening",
+              "title": "Seeking Forgiveness in the Evening",
+              "context": "Ending the day with forgiveness",
+              "arabic": "أَسْتَغْفِرُ اللَّهَ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ وَأَتُوبُ إِلَيْهِ.",
+              "urdu": "میں اللہ سے مغفرت مانگتا ہوں جس کے سوا کوئی معبود نہیں، وہ زندہ اور قائم ہے، اور میں اس کی طرف رجوع کرتا ہوں۔",
+              "english": "I seek forgiveness from Allah, besides whom there is no god, the Ever Living, the Sustainer, and I repent to Him."
+            },
+            {
+              "id": 36,
+              "category": "Evening",
+              "title": "Evening Praise of Allah",
+              "context": "Praising Allah before sleep",
+              "arabic": "سُبْحَانَ اللّٰهِ وَالْحَمْدُ لِلّٰهِ وَلَا إِلٰهَ إِلَّا اللّٰهُ وَاللّٰهُ أَكْبَرُ.",
+              "urdu": "اللہ پاک ہے، سب تعریف اللہ کے لیے ہے، اللہ کے سوا کوئی معبود نہیں، اللہ سب سے بڑا ہے۔",
+              "english": "Glory be to Allah, all praise is for Allah, there is no deity but Allah, and Allah is the Greatest."
+            },
+            {
+              "id": 37,
+              "category": "Evening",
+              "title": "Dua for Peaceful Sleep",
+              "context": "Before sleeping in the evening",
+              "arabic": "اللَّهُمَّ اجْعَلْ نَوْمَنَا رَاحَةً لِأَبْدَانِنَا وَرُوحَنَا.",
+              "urdu": "اے اللہ! ہماری نیند کو ہمارے جسم اور روح کے لیے راحت بنا دے۔",
+              "english": "O Allah, make our sleep a comfort for our bodies and souls."
+            },
+            {
+              "id": 38,
+              "category": "Evening",
+              "title": "Evening Dua for Rizq",
+              "context": "Seeking sustenance in evening",
+              "arabic": "اللَّهُمَّ ارْزُقْنِي مِنْ حَيْثُ لَا أَحْتَسِبُ.",
+              "urdu": "اے اللہ! مجھے وہاں سے رزق عطا فرما جہاں سے مجھے گمان بھی نہ ہو۔",
+              "english": "O Allah, provide for me from where I do not expect."
+            }
+          
+          
+      
+      
+  ]
+  

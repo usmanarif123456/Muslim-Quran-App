@@ -1,0 +1,1349 @@
+[
+  {
+    "id": 1,
+    "category": "Before Sleeping",
+    "arabic": "بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا",
+    "urdu": "اے اللہ! میں تیرے نام کے ساتھ مرتا ہوں اور جیتا ہوں۔",
+    "english": "In Your name, O Allah, I live and die."
+  },
+  {
+    "id": 2,
+    "category": "Upon Waking Up",
+    "arabic": "الْـحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
+    "urdu": "تمام تعریفیں اللہ کے لیے ہیں، جس نے ہمیں موت کے بعد زندگی دی، اور اسی کی طرف ہمیں لوٹ کر جانا ہے۔",
+    "english": "All praise is for Allah who gave us life after having taken it from us and unto Him is the resurrection."
+  },
+  {
+    "id": 3,
+    "category": "Entering Toilet",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ",
+    "urdu": "اے اللہ! میں خبیث جنّوں اور جنّاتیوں سے تیری پناہ چاہتا ہوں۔",
+    "english": "O Allah, I seek refuge with You from all evil and evil-doers (male and female Jinns)."
+  },
+  {
+    "id": 4,
+    "category": "Leaving Toilet",
+    "arabic": "غُفْرَانَكَ",
+    "urdu": "میں تیری مغفرت مانگتا ہوں۔",
+    "english": "I ask You (O Allah) for forgiveness."
+  },
+  {
+    "id": 5,
+    "category": "Before Eating",
+    "arabic": "بِسْمِ اللَّهِ",
+    "urdu": "اللہ کے نام سے (کھانا شروع کرتا ہوں)۔",
+    "english": "In the name of Allah."
+  },
+  {
+    "id": 6,
+    "category": "After Eating",
+    "arabic": "الْـحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنِي هَذَا، وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ مِنِّي وَلَا قُوَّةٍ",
+    "urdu": "تمام تعریفیں اللہ کے لیے ہیں جس نے مجھے یہ کھلایا اور رزق دیا، بغیر میرے زور اور طاقت کے۔",
+    "english": "All praise is for Allah who fed me this and provided it for me without any strength or power on my part."
+  },
+  {
+    "id": 7,
+    "category": "Leaving Home",
+    "arabic": "بِسْمِ اللَّهِ، تَوَكَّلْتُ عَلَى اللَّهِ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+    "urdu": "اللہ کے نام سے (نکلا)، میں نے اللہ پر بھروسہ کیا، اور نہ کوئی طاقت ہے، نہ کوئی قوت مگر اللہ کی۔",
+    "english": "In the name of Allah, I place my trust in Allah, and there is no might nor power except with Allah."
+  },
+  {
+    "id": 8,
+    "category": "Entering Home",
+    "arabic": "بِسْمِ اللَّهِ وَلَجْنَا، وَبِسْمِ اللَّهِ خَرَجْنَا، وَعَلَى اللَّهِ رَبِّنَا تَوَكَّلْنَا",
+    "urdu": "اللہ کے نام سے ہم داخل ہوئے، اللہ کے نام سے ہم نکلے، اور اپنے رب اللہ پر ہم نے بھروسہ کیا۔",
+    "english": "In the name of Allah we enter, and in the name of Allah we leave, and upon our Lord we place our trust."
+  },
+  {
+    "id": 9,
+    "category": "Entering Mosque",
+    "arabic": "اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+    "urdu": "اے اللہ! میرے لیے اپنی رحمت کے دروازے کھول دے۔",
+    "english": "O Allah, open the gates of Your mercy for me."
+  },
+  {
+    "id": 10,
+    "category": "Leaving Mosque",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ",
+    "urdu": "اے اللہ! میں تجھ سے تیرا فضل مانگتا ہوں۔",
+    "english": "O Allah, I ask You for Your bounty."
+  },
+  
+    {
+      "id": 11,
+      "category": "Upon Hearing the Adhan",
+      "arabic": "اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ، وَالصَّلَاةِ الْقَائِمَةِ، آتِ مُحَمَّدًا الْوَسِيلَةَ وَالْفَضِيلَةَ، وَابْعَثْهُ مَقَامًا مَحْمُودًا الَّذِي وَعَدْتَهُ",
+      "urdu": "اے اللہ! اس مکمل دعوت اور قائم ہونے والی نماز کے رب! محمد ﷺ کو وسیلہ اور فضیلت عطا فرما، اور انہیں مقام محمود پر فائز فرما جس کا تو نے وعدہ فرمایا۔",
+      "english": "O Allah, Lord of this perfect call and the established prayer, grant Muhammad the intercession and favor, and raise him to the praised position You have promised him."
+    },
+    {
+      "id": 12,
+      "category": "Entering the Market",
+      "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، يُحْيِي وَيُمِيتُ، وَهُوَ حَيٌّ لَا يَمُوتُ، بِيَدِهِ الْخَيْرُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+      "urdu": "اللہ کے سوا کوئی معبود نہیں، وہ اکیلا ہے، اس کا کوئی شریک نہیں، اسی کے لیے بادشاہی اور تمام تعریفیں ہیں، وہی زندہ کرتا ہے اور مارتا ہے، اور وہ ہمیشہ زندہ ہے، اسے موت نہیں، اسی کے ہاتھ میں سب بھلائی ہے اور وہ ہر چیز پر قادر ہے۔",
+      "english": "There is no god but Allah, alone, without partner. His is the dominion and His is the praise. He gives life and causes death. He is Ever-Living and does not die. In His hand is all good, and He is able to do all things."
+    },
+    {
+      "id": 13,
+      "category": "Morning Dhikr",
+      "arabic": "اللَّهُمَّ أَنْتَ رَبِّي، لَا إِلَهَ إِلَّا أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ...",
+      "urdu": "اے اللہ! تو میرا رب ہے، تیرے سوا کوئی معبود نہیں، تو نے مجھے پیدا کیا اور میں تیرا بندہ ہوں، میں اپنی استطاعت کے مطابق تیرے عہد و پیمان پر قائم ہوں...",
+      "english": "O Allah, You are my Lord, none has the right to be worshiped but You. You created me and I am Your servant, and I abide to Your covenant and promise as best I can..."
+    },
+    {
+      "id": 14,
+      "category": "Before Entering the Graveyard",
+      "arabic": "السَّلَامُ عَلَيْكُمْ أَهْلَ الدِّيَارِ، مِنَ الْمُؤْمِنِينَ وَالْمُسْلِمِينَ، وَإِنَّا إِنْ شَاءَ اللَّهُ بِكُمْ لَلَاحِقُونَ",
+      "urdu": "اے اہلِ قبور! تم پر سلامتی ہو، اے مؤمنو اور مسلمو! اور ہم ان شاء اللہ تم سے آ ملنے والے ہیں۔",
+      "english": "Peace be upon you, O dwellers of these abodes, believers and Muslims. Indeed, we are, Allah willing, to join you."
+    },
+    {
+      "id": 15,
+      "category": "During Rain",
+      "arabic": "اللَّهُمَّ صَيِّبًا نَافِعًا",
+      "urdu": "اے اللہ! اس بارش کو نفع بخش بنا۔",
+      "english": "O Allah, make it a beneficial rain."
+    },
+    {
+      "id": 16,
+      "category": "After Sneezing",
+      "arabic": "الْـحَمْدُ لِلَّهِ",
+      "urdu": "تمام تعریفیں اللہ کے لیے ہیں۔",
+      "english": "All praise is due to Allah."
+    },
+    {
+      "id": 17,
+      "category": "Reply to One Who Sneezes",
+      "arabic": "يَرْحَمُكَ اللَّهُ",
+      "urdu": "اللہ تم پر رحم فرمائے۔",
+      "english": "May Allah have mercy on you."
+    },
+    {
+      "id": 18,
+      "category": "Supplication for Anxiety and Sorrow",
+      "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ...",
+      "urdu": "اے اللہ! میں پریشانی اور غم سے تیری پناہ مانگتا ہوں...",
+      "english": "O Allah, I seek refuge in You from anxiety and grief..."
+    },
+    {
+      "id": 19,
+      "category": "Supplication for Pain",
+      "arabic": "أَعُوذُ بِاللَّهِ وَقُدْرَتِهِ مِنْ شَرِّ مَا أَجِدُ وَأُحَاذِرُ",
+      "urdu": "میں اللہ اور اس کی قدرت کی پناہ لیتا ہوں اس تکلیف سے جو مجھے لاحق ہے اور جس سے میں ڈرتا ہوں۔",
+      "english": "I seek refuge in Allah and in His power from the evil of what I feel and what I fear."
+    },
+    {
+      "id": 20,
+      "category": "When Wearing New Clothes",
+      "arabic": "اللَّهُمَّ لَكَ الْـحَمْدُ، أَنْتَ كَسَوْتَنِيهِ، أَسْأَلُكَ خَيْرَهُ وَخَيْرَ مَا صُنِعَ لَهُ...",
+      "urdu": "اے اللہ! تیرے ہی لیے تمام تعریف ہے، تُو نے مجھے یہ کپڑا پہنایا، میں تجھ سے اس کی بھلائی اور جس مقصد کے لیے بنایا گیا ہے اس کی بھلائی مانگتا ہوں...",
+      "english": "O Allah, to You is all praise. You clothed me with it. I ask You for its goodness and the goodness for which it was made..."
+    },
+    
+      {
+        "id": 21,
+        "category": "When Looking in the Mirror",
+        "arabic": "اللَّهُمَّ كَمَا أَحْسَنْتَ خَلْقِي فَأَحْسِنْ خُلُقِي",
+        "urdu": "اے اللہ! جیسے تو نے میری شکل کو خوبصورت بنایا، ویسے ہی میرے اخلاق کو بھی خوبصورت بنا دے۔",
+        "english": "O Allah, just as You have made my appearance beautiful, make my character beautiful as well."
+      },
+      {
+        "id": 22,
+        "category": "Before Wudu",
+        "arabic": "بِسْمِ اللَّهِ",
+        "urdu": "اللہ کے نام سے (وضو شروع کرتا ہوں)",
+        "english": "In the name of Allah."
+      },
+      {
+        "id": 23,
+        "category": "After Wudu",
+        "arabic": "أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ، وَحْدَهُ لَا شَرِيكَ لَهُ، وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ",
+        "urdu": "میں گواہی دیتا ہوں کہ اللہ کے سوا کوئی معبود نہیں، وہ اکیلا ہے، اس کا کوئی شریک نہیں، اور محمد ﷺ اس کے بندے اور رسول ہیں۔",
+        "english": "I bear witness that there is no deity worthy of worship except Allah, alone, with no partner, and I bear witness that Muhammad is His servant and Messenger."
+      },
+      {
+        "id": 24,
+        "category": "After Azan",
+        "arabic": "وَأَنَا أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، وَأَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ...",
+        "urdu": "اور میں گواہی دیتا ہوں کہ اللہ کے سوا کوئی معبود نہیں، وہ اکیلا ہے، اس کا کوئی شریک نہیں، اور محمد ﷺ اس کے بندے اور رسول ہیں...",
+        "english": "And I bear witness that there is no god except Allah alone with no partner, and that Muhammad is His servant and messenger..."
+      },
+      {
+        "id": 25,
+        "category": "Dua Between Adhan and Iqamah",
+        "arabic": "اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ...",
+        "urdu": "اے اللہ! اس مکمل دعوت کے رب! محمد ﷺ کو وسیلہ عطا فرما...",
+        "english": "O Allah, Lord of this perfect call... grant Muhammad the means and virtue..."
+      },
+      {
+        "id": 26,
+        "category": "After Hearing Bad News",
+        "arabic": "الْـحَمْدُ لِلَّهِ عَلَى كُلِّ حَالٍ",
+        "urdu": "ہر حال میں اللہ ہی کے لیے تعریف ہے۔",
+        "english": "All praise is for Allah in every circumstance."
+      },
+      {
+        "id": 27,
+        "category": "For Protection of Children",
+        "arabic": "أُعِيذُكُمَا بِكَلِمَاتِ اللَّهِ التَّامَّةِ مِنْ كُلِّ شَيْطَانٍ وَهَامَّةٍ وَمِنْ كُلِّ عَيْنٍ لَامَّةٍ",
+        "urdu": "میں تم دونوں کو اللہ کے مکمل کلمات کے ذریعے ہر شیطان، زہریلے جانور اور نظرِ بد سے پناہ دیتا ہوں۔",
+        "english": "I seek protection for you both in the perfect words of Allah from every devil, poisonous creature, and harmful eye."
+      },
+      {
+        "id": 28,
+        "category": "For Traveling",
+        "arabic": "اللَّهُمَّ هَوِّنْ عَلَيْنَا سَفَرَنَا هَذَا...",
+        "urdu": "اے اللہ! ہمارے اس سفر کو ہم پر آسان کر دے...",
+        "english": "O Allah, make this journey easy for us..."
+      },
+      {
+        "id": 29,
+        "category": "When Mounting an Animal or Vehicle",
+        "arabic": "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ",
+        "urdu": "پاک ہے وہ ذات جس نے اسے ہمارے تابع کیا، ورنہ ہم اسے قابو میں نہیں لا سکتے تھے۔",
+        "english": "Glory is to Him who has subjected this to us, and we could never have accomplished it by ourselves."
+      },
+      {
+        "id": 30,
+        "category": "Entering Home at Night",
+        "arabic": "بِسْمِ اللَّهِ جَاءَ وَبِسْمِ اللَّهِ خَرَجْنَا وَعَلَى اللَّهِ تَوَكَّلْنَا",
+        "urdu": "اللہ کے نام سے ہم آئے، اللہ کے نام سے نکلے، اور اللہ پر ہم نے بھروسہ کیا۔",
+        "english": "With the name of Allah we enter, and with the name of Allah we leave, and in Allah we place our trust."
+      },
+      {
+        "id": 31,
+        "category": "After Wind Blows",
+        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَهَا، وَأَعُوذُ بِكَ مِنْ شَرِّهَا",
+        "urdu": "اے اللہ! میں تجھ سے اس ہوا کی بھلائی مانگتا ہوں، اور اس کی برائی سے پناہ چاہتا ہوں۔",
+        "english": "O Allah, I ask You for the good of this wind, and I seek refuge in You from its evil."
+      },
+      {
+        "id": 32,
+        "category": "During Thunder",
+        "arabic": "سُبْحَانَ الَّذِي يُسَبِّحُ الرَّعْدُ بِحَمْدِهِ وَالْمَلَائِكَةُ مِنْ خِيفَتِهِ",
+        "urdu": "پاک ہے وہ ذات جس کی حمد کے ساتھ رعد (کڑک) تسبیح کرتی ہے اور فرشتے اس کے خوف سے۔",
+        "english": "Glory is to Him whom the thunder declares His praise, as do the angels in awe of Him."
+      },
+      {
+        "id": 33,
+        "category": "For Debt Relief",
+        "arabic": "اللَّهُمَّ اكْفِنِي بِحَلَالِكَ عَنْ حَرَامِكَ، وَأَغْنِنِي بِفَضْلِكَ عَمَّنْ سِوَاكَ",
+        "urdu": "اے اللہ! مجھے اپنے حلال سے کفایت دے دے، حرام سے بچا، اور مجھے اپنے فضل سے غیر کا محتاج نہ کر۔",
+        "english": "O Allah, suffice me with what You have allowed instead of what You have forbidden, and make me independent of all others besides You."
+      },
+      {
+        "id": 34,
+        "category": "Before Sexual Relations",
+        "arabic": "بِسْمِ اللَّهِ، اللَّهُمَّ جَنِّبْنَا الشَّيْطَانَ...",
+        "urdu": "اللہ کے نام سے، اے اللہ! ہمیں شیطان سے دور رکھ...",
+        "english": "In the name of Allah, O Allah, keep the devil away from us..."
+      },
+      {
+        "id": 35,
+        "category": "After Rain Stops",
+        "arabic": "مُطِرْنَا بِفَضْلِ اللَّهِ وَرَحْمَتِهِ",
+        "urdu": "ہم پر اللہ کے فضل اور رحمت سے بارش نازل ہوئی۔",
+        "english": "We have been given rain by the grace and mercy of Allah."
+      },
+      {
+        "id": 36,
+        "category": "When Seeing a Sick Person",
+        "arabic": "لَا بَأْسَ طَهُورٌ إِنْ شَاءَ اللَّهُ",
+        "urdu": "کوئی حرج نہیں، ان شاء اللہ یہ پاکیزگی کا ذریعہ ہے۔",
+        "english": "No harm, it is a purification, if Allah wills."
+      },
+      {
+        "id": 37,
+        "category": "Before Sleeping (Short)",
+        "arabic": "اللَّهُمَّ قِنِي عَذَابَكَ يَوْمَ تَبْعَثُ عِبَادَكَ",
+        "urdu": "اے اللہ! مجھے اپنے عذاب سے بچا جس دن تو اپنے بندوں کو اٹھائے گا۔",
+        "english": "O Allah, protect me from Your punishment on the Day You resurrect Your slaves."
+      },
+      {
+        "id": 38,
+        "category": "Entering a New Place (City, Home, etc.)",
+        "arabic": "رَبِّ أَعُوذُ بِكَ مِنْ شَرِّ هَذَا الْمَكَانِ وَشَرِّ مَا فِيهِ",
+        "urdu": "اے رب! میں تجھ سے اس جگہ کی اور اس میں جو کچھ ہے اس کی برائی سے پناہ مانگتا ہوں۔",
+        "english": "My Lord, I seek refuge in You from the evil of this place and the evil within it."
+      },
+      {
+        "id": 39,
+        "category": "Looking at the Sky",
+        "arabic": "رَبَّنَا مَا خَلَقْتَ هَذَا بَاطِلًا سُبْحَانَكَ",
+        "urdu": "اے ہمارے رب! تو نے یہ سب کچھ بے مقصد نہیں بنایا، تو پاک ہے۔",
+        "english": "Our Lord, You have not created all this without purpose. Glory be to You."
+      },
+      {
+        "id": 40,
+        "category": "After Hearing Good News",
+        "arabic": "الْـحَمْدُ لِلَّهِ الَّذِي بِنِعْمَتِهِ تَتِمُّ الصَّالِحَاتُ",
+        "urdu": "تمام تعریفیں اللہ کے لیے ہیں، جس کی نعمت سے نیک کام مکمل ہوتے ہیں۔",
+        "english": "All praise is due to Allah by whose favor good deeds are completed."
+      },
+      
+        {
+          "id": 41,
+          "category": "Before Entering Exam or Task",
+          "arabic": "رَبِّ اشْرَحْ لِي صَدْرِي * وَيَسِّرْ لِي أَمْرِي",
+          "urdu": "اے میرے رب! میرے لیے میرا سینہ کھول دے، اور میرے لیے میرا کام آسان کر دے۔",
+          "english": "My Lord, expand for me my chest and ease for me my task."
+        },
+        {
+          "id": 42,
+          "category": "On Facing a Difficulty",
+          "arabic": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+          "urdu": "ہمارے لیے اللہ کافی ہے، اور وہ بہترین کارساز ہے۔",
+          "english": "Allah is sufficient for us, and He is the best disposer of affairs."
+        },
+        {
+          "id": 43,
+          "category": "After Success or Victory",
+          "arabic": "إِنَّ الْحَمْدَ لِلَّهِ نَحْمَدُهُ وَنَسْتَعِينُهُ",
+          "urdu": "بیشک تمام تعریف اللہ کے لیے ہے، ہم اس کی حمد کرتے ہیں اور اس سے مدد مانگتے ہیں۔",
+          "english": "Indeed, all praise is due to Allah. We praise Him and seek His help."
+        },
+        {
+          "id": 44,
+          "category": "Against Evil Eye",
+          "arabic": "بِسْمِ اللَّهِ أَرْقِيكَ، مِنْ كُلِّ شَيْءٍ يُؤْذِيكَ...",
+          "urdu": "اللہ کے نام سے میں تجھے دم کرتا ہوں، ہر اس چیز سے جو تجھے تکلیف دے...",
+          "english": "In the name of Allah, I perform Ruqyah for you, from everything that harms you..."
+        },
+        {
+          "id": 45,
+          "category": "After Drinking Milk",
+          "arabic": "اللَّهُمَّ بَارِكْ لَنَا فِيهِ وَزِدْنَا مِنْهُ",
+          "urdu": "اے اللہ! ہمارے لیے اس میں برکت دے اور ہمیں اس میں اضافہ عطا فرما۔",
+          "english": "O Allah, bless it for us and increase it for us."
+        },
+        {
+          "id": 46,
+          "category": "Dua for Parents",
+          "arabic": "رَبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا",
+          "urdu": "اے میرے رب! ان پر رحم فرما جیسے انہوں نے مجھے بچپن میں پالا۔",
+          "english": "My Lord, have mercy upon them as they brought me up [when I was] small."
+        },
+        {
+          "id": 47,
+          "category": "When Someone Helps You",
+          "arabic": "جَزَاكَ اللَّهُ خَيْرًا",
+          "urdu": "اللہ تمہیں جزائے خیر دے۔",
+          "english": "May Allah reward you with goodness."
+        },
+        {
+          "id": 48,
+          "category": "When Visiting the Sick",
+          "arabic": "لَا بَأْسَ طَهُورٌ إِنْ شَاءَ اللَّهُ",
+          "urdu": "کوئی حرج نہیں، ان شاء اللہ یہ بیماری پاکیزگی کا سبب ہے۔",
+          "english": "No harm, it is a purification, if Allah wills."
+        },
+        {
+          "id": 49,
+          "category": "When Breaking Fast",
+          "arabic": "اللَّهُمَّ إِنِّي لَكَ صُمْتُ وَبِكَ آمَنْتُ...",
+          "urdu": "اے اللہ! میں نے تیرے لیے روزہ رکھا اور تجھ پر ایمان لایا...",
+          "english": "O Allah, I fasted for You, and I believe in You..."
+        },
+        {
+          "id": 50,
+          "category": "After Breaking Fast",
+          "arabic": "ذَهَبَ الظَّمَأُ، وَابْتَلَّتِ الْعُرُوقُ...",
+          "urdu": "پیاس بجھ گئی، رگیں تر ہو گئیں...",
+          "english": "The thirst has gone and the veins are moistened..."
+        },
+        {
+          "id": 51,
+          "category": "Night Prayer (Tahajjud)",
+          "arabic": "اللَّهُمَّ لَكَ الْحَمْدُ، أَنْتَ قَيِّمُ السَّمَاوَاتِ...",
+          "urdu": "اے اللہ! سب تعریف تیرے لیے ہے، تو آسمانوں اور زمین کا نگہبان ہے...",
+          "english": "O Allah, to You belongs all praise, You are the Sustainer of the heavens..."
+        },
+        {
+          "id": 52,
+          "category": "For Repentance",
+          "arabic": "رَبِّ اغْفِرْ لِي وَتُبْ عَلَيَّ، إِنَّكَ أَنْتَ التَّوَّابُ الرَّحِيمُ",
+          "urdu": "اے میرے رب! مجھے بخش دے اور مجھ پر مہربانی فرما، بیشک تو ہی توبہ قبول کرنے والا مہربان ہے۔",
+          "english": "My Lord, forgive me and accept my repentance. Indeed, You are the Accepter of repentance, the Merciful."
+        },
+        {
+          "id": 53,
+          "category": "When Angry",
+          "arabic": "أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+          "urdu": "میں شیطان مردود سے اللہ کی پناہ مانگتا ہوں۔",
+          "english": "I seek refuge in Allah from the accursed devil."
+        },
+        {
+          "id": 54,
+          "category": "When Someone Dies",
+          "arabic": "إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ",
+          "urdu": "ہم اللہ کے ہیں اور ہم اسی کی طرف لوٹنے والے ہیں۔",
+          "english": "Indeed we belong to Allah, and indeed to Him we will return."
+        },
+        {
+          "id": 55,
+          "category": "When Seeing a Dream",
+          "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ شَرِّهَا",
+          "urdu": "اے اللہ! میں اس خواب کے شر سے تیری پناہ چاہتا ہوں۔",
+          "english": "O Allah, I seek refuge in You from its evil."
+        },
+        {
+          "id": 56,
+          "category": "When Visiting a Grave",
+          "arabic": "السَّلَامُ عَلَيْكُمْ دَارَ قَوْمٍ مُؤْمِنِينَ...",
+          "urdu": "سلام ہو تم پر اے مؤمن قوم کے رہنے والو...",
+          "english": "Peace be upon you, O dwelling of believing people..."
+        },
+        {
+          "id": 57,
+          "category": "Dua for Istikhara",
+          "arabic": "اللَّهُمَّ إِنِّي أَسْتَخِيرُكَ بِعِلْمِكَ...",
+          "urdu": "اے اللہ! میں تیرے علم سے استخارہ کرتا ہوں...",
+          "english": "O Allah, I seek the betterment from You by Your knowledge..."
+        },
+        {
+          "id": 58,
+          "category": "Dua During Prostration",
+          "arabic": "سُبْحَانَ رَبِّيَ الأَعْلَى",
+          "urdu": "پاک ہے میرا رب جو سب سے بلند ہے۔",
+          "english": "Glory is to my Lord, the Most High."
+        },
+        {
+          "id": 59,
+          "category": "Between Two Sujood",
+          "arabic": "رَبِّ اغْفِرْ لِي، رَبِّ اغْفِرْ لِي",
+          "urdu": "اے میرے رب! مجھے بخش دے، اے میرے رب! مجھے بخش دے۔",
+          "english": "My Lord, forgive me. My Lord, forgive me."
+        },
+        {
+          "id": 60,
+          "category": "After Salah",
+          "arabic": "اللَّهُمَّ أَنْتَ السَّلَامُ وَمِنْكَ السَّلَامُ...",
+          "urdu": "اے اللہ! تو ہی سلامتی والا ہے، اور تجھ ہی سے سلامتی ہے...",
+          "english": "O Allah, You are peace and from You comes peace..."
+        },
+        {
+          "id": 61,
+          "category": "Before Entering a Gathering",
+          "arabic": "اللَّهُمَّ اجْعَلْنَا مِنْ الَّذِينَ يَسْتَمِعُونَ الْقَوْلَ...",
+          "urdu": "اے اللہ! ہمیں ان لوگوں میں شامل کر جو بات کو سنتے ہیں اور بہترین بات پر عمل کرتے ہیں۔",
+          "english": "O Allah, make us among those who listen to words and follow the best of them."
+        },
+        {
+          "id": 62,
+          "category": "After Leaving a Gathering",
+          "arabic": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ...",
+          "urdu": "اے اللہ! تو پاک ہے اور تیرے لیے ہی تمام تعریف ہے، میں گواہی دیتا ہوں...",
+          "english": "Glory is to You, O Allah, and praise is Yours. I bear witness..."
+        },
+        {
+          "id": 63,
+          "category": "Entering the Month of Ramadan",
+          "arabic": "اللَّهُمَّ بَلِّغْنَا رَمَضَانَ",
+          "urdu": "اے اللہ! ہمیں رمضان تک پہنچا دے۔",
+          "english": "O Allah, allow us to reach Ramadan."
+        },
+        {
+          "id": 64,
+          "category": "When You See Something You Like",
+          "arabic": "مَا شَاءَ اللَّهُ لَا قُوَّةَ إِلَّا بِاللَّهِ",
+          "urdu": "جیسا اللہ چاہے، اللہ کے سوا کوئی طاقت نہیں۔",
+          "english": "What Allah willed [has occurred], there is no power except with Allah."
+        },
+        {
+          "id": 65,
+          "category": "When Entering a City",
+          "arabic": "اللَّهُمَّ رَبَّ السَّمَوَاتِ السَّبْعِ... أَدْخِلْنِي مُدْخَلَ صِدْقٍ",
+          "urdu": "اے اللہ! سات آسمانوں کے رب! مجھے سچائی کے ساتھ داخل فرما۔",
+          "english": "O Allah, Lord of the seven heavens... let me enter with truth."
+        },
+        {
+          "id": 66,
+          "category": "Dua for Laylatul Qadr",
+          "arabic": "اللَّهُمَّ إِنَّكَ عَفُوٌّ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي",
+          "urdu": "اے اللہ! تو معاف کرنے والا ہے، معافی کو پسند کرتا ہے، لہٰذا مجھے معاف فرما۔",
+          "english": "O Allah, You are Forgiving and love forgiveness, so forgive me."
+        },
+        {
+          "id": 67,
+          "category": "Dua Against Laziness",
+          "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْعَجْزِ وَالْكَسَلِ...",
+          "urdu": "اے اللہ! میں عاجزی اور سستی سے تیری پناہ مانگتا ہوں...",
+          "english": "O Allah, I seek refuge with You from incapacity and laziness..."
+        },
+        {
+          "id": 68,
+          "category": "For Seeking Knowledge",
+          "arabic": "رَبِّ زِدْنِي عِلْمًا",
+          "urdu": "اے میرے رب! میرے علم میں اضافہ فرما۔",
+          "english": "My Lord, increase me in knowledge."
+        },
+        {
+          "id": 69,
+          "category": "When Seeing Someone in Difficulty",
+          "arabic": "الْـحَمْدُ لِلَّهِ الَّذِي عَافَانِي مِمَّا ابْتَلَاكَ بِهِ...",
+          "urdu": "تمام تعریفیں اللہ کے لیے ہیں جس نے مجھے اس مصیبت سے بچایا جس میں تجھے مبتلا کیا۔",
+          "english": "All praise is due to Allah who saved me from what He tested you with..."
+        },
+        {
+          "id": 70,
+          "category": "Entering a New Year",
+          "arabic": "اللَّهُمَّ اجْعَلْهُ عَامًا مَلِيئًا بِالْخَيْرِ وَالْبَرَكَةِ",
+          "urdu": "اے اللہ! اسے خیر اور برکت والا سال بنا دے۔",
+          "english": "O Allah, make it a year full of goodness and blessings."
+        },
+        
+          {
+            "id": 71,
+            "category": "Dua for Righteous Children",
+            "arabic": "رَبِّ هَبْ لِي مِنَ الصَّالِحِينَ",
+            "urdu": "اے میرے رب! مجھے نیک اولاد عطا فرما۔",
+            "english": "My Lord, grant me [a child] from among the righteous."
+          },
+          {
+            "id": 72,
+            "category": "When in Fear",
+            "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ شَرِّ نَفْسِي وَمِنْ شَرِّ كُلِّ دَابَّةٍ...",
+            "urdu": "اے اللہ! میں اپنی جان کے شر اور ہر چلنے والے جاندار کے شر سے تیری پناہ مانگتا ہوں...",
+            "english": "O Allah, I seek refuge with You from the evil of my soul and the evil of every creature..."
+          },
+          {
+            "id": 73,
+            "category": "For Halal Sustenance",
+            "arabic": "اللَّهُمَّ اكْفِنِي بِحَلَالِكَ عَنْ حَرَامِكَ",
+            "urdu": "اے اللہ! مجھے اپنے حلال سے کفایت دے دے، حرام سے بچا۔",
+            "english": "O Allah, suffice me with what You have made lawful instead of what You have made unlawful."
+          },
+          {
+            "id": 74,
+            "category": "Dua for Forgiveness for All Muslims",
+            "arabic": "اللَّهُمَّ اغْفِرْ لِلْمُسْلِمِينَ وَالْمُسْلِمَاتِ...",
+            "urdu": "اے اللہ! سب مسلمان مردوں اور عورتوں کو بخش دے...",
+            "english": "O Allah, forgive all the Muslim men and women, and believing men and women..."
+          },
+          {
+            "id": 75,
+            "category": "For Contentment",
+            "arabic": "اللَّهُمَّ اجْعَلْنِي رَاضِيًا بِمَا قَسَمْتَ لِي",
+            "urdu": "اے اللہ! مجھے اپنے حصے پر راضی رہنے والا بنا۔",
+            "english": "O Allah, make me content with what You have allotted for me."
+          },
+          {
+            "id": 76,
+            "category": "When Remembering the Deceased",
+            "arabic": "اللَّهُمَّ اغْفِرْ لَهُ وَارْحَمْهُ",
+            "urdu": "اے اللہ! اسے بخش دے اور اس پر رحم فرما۔",
+            "english": "O Allah, forgive him and have mercy on him."
+          },
+          {
+            "id": 77,
+            "category": "For Marriage",
+            "arabic": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ...",
+            "urdu": "اے ہمارے رب! ہمیں ہماری بیویوں اور اولاد سے آنکھوں کی ٹھنڈک عطا فرما...",
+            "english": "Our Lord, grant us from our spouses and offspring comfort to our eyes..."
+          },
+          {
+            "id": 78,
+            "category": "For a Friend",
+            "arabic": "اللَّهُمَّ أَحْسِنْ إِلَيْهِ كَمَا أَحْسَنَ إِلَيَّ",
+            "urdu": "اے اللہ! جیسا اس نے میرے ساتھ احسان کیا، تو بھی اس کے ساتھ احسان فرما۔",
+            "english": "O Allah, be kind to him as he was kind to me."
+          },
+          {
+            "id": 79,
+            "category": "Dua for Good Death",
+            "arabic": "اللَّهُمَّ اجْعَلْ خَيْرَ أَعْمَالِي خَوَاتِيمَهَا",
+            "urdu": "اے اللہ! میرے اعمال کا بہترین حصہ اس کا اختتام بنا۔",
+            "english": "O Allah, make the best of my deeds the last of them."
+          },
+          {
+            "id": 80,
+            "category": "When Waking at Night",
+            "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ...",
+            "urdu": "اللہ کے سوا کوئی معبود نہیں، وہ اکیلا ہے، اس کا کوئی شریک نہیں...",
+            "english": "None has the right to be worshiped except Allah alone, without partner..."
+          },
+          {
+            "id": 81,
+            "category": "For a New Job",
+            "arabic": "اللَّهُمَّ بَارِكْ لِي فِيهِ وَفِي رِزْقِي",
+            "urdu": "اے اللہ! میرے لیے اس میں اور میرے رزق میں برکت عطا فرما۔",
+            "english": "O Allah, bless it for me and bless my sustenance."
+          },
+          {
+            "id": 82,
+            "category": "For Patience",
+            "arabic": "رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا",
+            "urdu": "اے ہمارے رب! ہم پر صبر نازل فرما۔",
+            "english": "Our Lord, pour upon us patience."
+          },
+          {
+            "id": 83,
+            "category": "For Pious Company",
+            "arabic": "اللَّهُمَّ ارْزُقْنِي صُحْبَةَ الصَّالِحِينَ",
+            "urdu": "اے اللہ! مجھے نیک لوگوں کی صحبت عطا فرما۔",
+            "english": "O Allah, grant me the companionship of the righteous."
+          },
+          {
+            "id": 84,
+            "category": "When Seeing the Kaaba",
+            "arabic": "اللَّهُمَّ زِدْ هَذَا الْبَيْتَ تَشْرِيفًا...",
+            "urdu": "اے اللہ! اس گھر کو عزت و عظمت میں بڑھا دے...",
+            "english": "O Allah, increase this House in honor, dignity..."
+          },
+          {
+            "id": 85,
+            "category": "During Tawaaf",
+            "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً...",
+            "urdu": "اے ہمارے رب! ہمیں دنیا میں بھلائی عطا فرما...",
+            "english": "Our Lord, give us in this world that which is good..."
+          },
+          {
+            "id": 86,
+            "category": "At Mount Safa and Marwa",
+            "arabic": "إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ...",
+            "urdu": "بے شک صفا اور مروہ اللہ کی نشانیوں میں سے ہیں...",
+            "english": "Indeed, Safa and Marwa are among the symbols of Allah..."
+          },
+          {
+            "id": 87,
+            "category": "For Good Character",
+            "arabic": "اللَّهُمَّ حَسِّنْ خُلُقِي كَمَا حَسَّنْتَ خَلْقِي",
+            "urdu": "اے اللہ! میرے اخلاق کو ایسا ہی عمدہ بنا جیسا تو نے میری صورت کو عمدہ بنایا۔",
+            "english": "O Allah, beautify my character as You have beautified my appearance."
+          },
+          {
+            "id": 88,
+            "category": "Before Entering a Judge’s Court",
+            "arabic": "رَبِّ أَدْخِلْنِي مُدْخَلَ صِدْقٍ وَأَخْرِجْنِي مُخْرَجَ صِدْقٍ",
+            "urdu": "اے میرے رب! مجھے سچائی کے ساتھ داخل کر اور سچائی کے ساتھ نکال۔",
+            "english": "My Lord, cause me to enter a sound entrance and to exit a sound exit."
+          },
+          {
+            "id": 89,
+            "category": "For Guidance",
+            "arabic": "اللَّهُمَّ اهْدِنِي وَسَدِّدْنِي",
+            "urdu": "اے اللہ! مجھے ہدایت دے اور میرے کام درست کر دے۔",
+            "english": "O Allah, guide me and make me upright."
+          },
+          {
+            "id": 90,
+            "category": "Before Sleeping (Ayah)",
+            "arabic": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ...",
+            "urdu": "اللہ، وہ معبود جو زندہ ہے، قائم دائم ہے...",
+            "english": "Allah – there is no deity except Him, the Ever-Living, the Sustainer of existence..."
+          },
+          {
+            "id": 91,
+            "category": "When Looking at the Moon",
+            "arabic": "اللَّهُمَّ أَهِلَّهُ عَلَيْنَا بِالْيُمْنِ وَالْإِيمَانِ...",
+            "urdu": "اے اللہ! اسے ہمارے لیے برکت اور ایمان والا چاند بنا دے...",
+            "english": "O Allah, let this moon rise upon us with blessings and faith..."
+          },
+          {
+            "id": 92,
+            "category": "For Rainfall",
+            "arabic": "اللَّهُمَّ اسْقِنَا غَيْثًا مُغِيثًا مَرِيعًا نَافِعًا غَيْرَ ضَارٍّ",
+            "urdu": "اے اللہ! ہمیں بارش عطا فرما، جو فائدہ مند ہو، نقصان نہ دے۔",
+            "english": "O Allah, give us rainfall that is helpful, abundant, beneficial and not harmful."
+          },
+          {
+            "id": 93,
+            "category": "During Earthquake",
+            "arabic": "اللَّهُمَّ اجْعَلْهَا رَحْمَةً وَلَا تَجْعَلْهَا عَذَابًا",
+            "urdu": "اے اللہ! اسے ہمارے لیے رحمت بنا، عذاب نہ بنا۔",
+            "english": "O Allah, make it a mercy for us and not a punishment."
+          },
+          {
+            "id": 94,
+            "category": "During Eclipse",
+            "arabic": "اللَّهُ أَكْبَرُ، سُبْحَانَ اللَّهِ، أَسْتَغْفِرُ اللَّهَ",
+            "urdu": "اللہ سب سے بڑا ہے، اللہ پاک ہے، میں اللہ سے معافی مانگتا ہوں۔",
+            "english": "Allah is the Greatest, Glory be to Allah, I seek forgiveness from Allah."
+          },
+          {
+            "id": 95,
+            "category": "Dua for Barakah",
+            "arabic": "اللَّهُمَّ بَارِكْ لَنَا فِي أَعْمَارِنَا وَأَعْمَالِنَا",
+            "urdu": "اے اللہ! ہماری عمروں اور اعمال میں برکت عطا فرما۔",
+            "english": "O Allah, bless our lives and our deeds."
+          },
+          {
+            "id": 96,
+            "category": "Dua When Feeling Helpless",
+            "arabic": "اللَّهُمَّ لَا سَهْلَ إِلَّا مَا جَعَلْتَهُ سَهْلًا...",
+            "urdu": "اے اللہ! کوئی چیز آسان نہیں مگر جو تو آسان کرے...",
+            "english": "O Allah, nothing is easy except what You make easy..."
+          },
+          {
+            "id": 97,
+            "category": "After Sneezing (Self)",
+            "arabic": "الْـحَمْدُ لِلَّهِ عَلَى كُلِّ حَالٍ",
+            "urdu": "ہر حال میں اللہ کا شکر ہے۔",
+            "english": "All praise is for Allah in all circumstances."
+          },
+          {
+            "id": 98,
+            "category": "Dua for Justice",
+            "arabic": "اللَّهُمَّ أَرِنَا الْحَقَّ حَقًّا وَارْزُقْنَا اتِّبَاعَهُ",
+            "urdu": "اے اللہ! ہمیں حق کو حق دکھا اور اس کی پیروی کی توفیق دے۔",
+            "english": "O Allah, show us truth as truth and help us follow it."
+          },
+          {
+            "id": 99,
+            "category": "At the Time of Distress",
+            "arabic": "يَا حَيُّ يَا قَيُّومُ بِرَحْمَتِكَ أَسْتَغِيثُ",
+            "urdu": "اے زندہ و قائم رب! میں تیری رحمت سے مدد مانگتا ہوں۔",
+            "english": "O Ever-Living, O Sustainer, I seek help through Your mercy."
+          },
+          {
+            "id": 100,
+            "category": "When You Lose Something",
+            "arabic": "اللَّهُمَّ رُدَّهُ إِلَيَّ",
+            "urdu": "اے اللہ! اسے مجھے واپس کر دے۔",
+            "english": "O Allah, return it to me."
+          },
+          {
+            "id": 101,
+            "category": "Before Learning or Speech",
+            "arabic": "رَبِّ اشْرَحْ لِي صَدْرِي...",
+            "urdu": "اے رب! میرا سینہ کھول دے...",
+            "english": "My Lord, open my chest for me..."
+          },
+          {
+            "id": 102,
+            "category": "After Good Deed",
+            "arabic": "تَقَبَّلَ اللَّهُ مِنَّا وَمِنْكُمْ",
+            "urdu": "اللہ ہم سب کے اعمال قبول فرمائے۔",
+            "english": "May Allah accept from us and from you."
+          },
+          {
+            "id": 103,
+            "category": "Dua for a Happy Life",
+            "arabic": "اللَّهُمَّ اجْعَلْ حَيَاتِي زِيَادَةً فِي كُلِّ خَيْرٍ",
+            "urdu": "اے اللہ! میری زندگی کو ہر بھلائی میں اضافہ بنا۔",
+            "english": "O Allah, make my life an increase in every good."
+          },
+          {
+            "id": 104,
+            "category": "To Protect Family",
+            "arabic": "اللَّهُمَّ احْفَظْ أَهْلِي وَذُرِّيَّتِي",
+            "urdu": "اے اللہ! میرے اہل و عیال اور اولاد کی حفاظت فرما۔",
+            "english": "O Allah, protect my family and children."
+          },
+          {
+            "id": 105,
+            "category": "When Seeing Something Amazing",
+            "arabic": "سُبْحَانَ اللَّهِ",
+            "urdu": "اللہ پاک ہے۔",
+            "english": "Glory be to Allah."
+          },
+          {
+            "id": 106,
+            "category": "Dua When Depressed",
+            "arabic": "اللَّهُمَّ ارْزُقْنِي قَلْبًا سَلِيمًا وَصَدْرًا مُنْشَرِحًا",
+            "urdu": "اے اللہ! مجھے پاک دل اور کشادہ سینہ عطا فرما۔",
+            "english": "O Allah, grant me a sound heart and an open chest."
+          },
+          {
+            "id": 107,
+            "category": "For Light in Life",
+            "arabic": "اللَّهُمَّ اجْعَلْ فِي قَلْبِي نُورًا...",
+            "urdu": "اے اللہ! میرے دل میں نور بنا دے...",
+            "english": "O Allah, place light in my heart..."
+          },
+          {
+            "id": 108,
+            "category": "When Facing Fitnah",
+            "arabic": "اللَّهُمَّ نَجِّنِي مِنَ الْفِتَنِ",
+            "urdu": "اے اللہ! مجھے فتنوں سے نجات دے۔",
+            "english": "O Allah, save me from trials."
+          },
+          {
+            "id": 109,
+            "category": "Dua for Guidance and Steadfastness",
+            "arabic": "اللَّهُمَّ ثَبِّتْنِي عَلَى دِينِكَ",
+            "urdu": "اے اللہ! مجھے اپنے دین پر قائم رکھ۔",
+            "english": "O Allah, keep me firm upon Your religion."
+          },
+          {
+            "id": 110,
+            "category": "When Seeing a Beautiful View",
+            "arabic": "تَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ",
+            "urdu": "بہت برکت والا ہے اللہ، بہترین خالق۔",
+            "english": "Blessed is Allah, the best of creators."
+          },
+          
+            {
+              "id": 111,
+              "category": "During Hardship",
+              "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ",
+              "urdu": "اے اللہ! میں فکر اور غم سے تیری پناہ چاہتا ہوں۔",
+              "english": "O Allah, I seek refuge in You from anxiety and sorrow."
+            },
+            {
+              "id": 112,
+              "category": "Seeking Paradise",
+              "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ وَمَا قَرَّبَ إِلَيْهَا",
+              "urdu": "اے اللہ! میں تجھ سے جنت اور ہر اس چیز کا سوال کرتا ہوں جو اس کے قریب کرے۔",
+              "english": "O Allah, I ask You for Paradise and whatever brings me close to it."
+            },
+            {
+              "id": 113,
+              "category": "Protection from Hell",
+              "arabic": "اللَّهُمَّ أَجِرْنِي مِنَ النَّارِ",
+              "urdu": "اے اللہ! مجھے جہنم سے بچا لے۔",
+              "english": "O Allah, save me from the Fire."
+            },
+            {
+              "id": 114,
+              "category": "Against Debt",
+              "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْمَأْثَمِ وَالْمَغْرَمِ",
+              "urdu": "اے اللہ! میں گناہ اور قرض سے تیری پناہ مانگتا ہوں۔",
+              "english": "O Allah, I seek refuge in You from sin and debt."
+            },
+            {
+              "id": 115,
+              "category": "For Increased Rizq",
+              "arabic": "اللَّهُمَّ ارْزُقْنِي رِزْقًا حَلَالًا طَيِّبًا وَاسِعًا",
+              "urdu": "اے اللہ! مجھے پاک، وسیع اور حلال رزق عطا فرما۔",
+              "english": "O Allah, provide me lawful, pure, and abundant sustenance."
+            },
+            {
+              "id": 116,
+              "category": "Dua for Children’s Protection",
+              "arabic": "أُعِيذُكَ بِكَلِمَاتِ اللَّهِ التَّامَّةِ مِنْ كُلِّ شَيْطَانٍ وَهَامَّةٍ...",
+              "urdu": "میں تمہیں اللہ کے مکمل کلمات کے ذریعے ہر شیطان، زہریلی چیز اور ہر برائی سے پناہ میں دیتا ہوں۔",
+              "english": "I seek protection for you in the perfect words of Allah from every devil, poison and evil."
+            },
+            {
+              "id": 117,
+              "category": "When Hearing Thunder",
+              "arabic": "سُبْحَانَ الَّذِي يُسَبِّحُ الرَّعْدُ بِحَمْدِهِ...",
+              "urdu": "پاک ہے وہ ذات جس کی حمد کے ساتھ رعد تسبیح کرتا ہے...",
+              "english": "Glory be to Him whom the thunder glorifies with His praise..."
+            },
+            {
+              "id": 118,
+              "category": "While Traveling",
+              "arabic": "اللَّهُمَّ أَنْتَ الصَّاحِبُ فِي السَّفَرِ وَالْخَلِيفَةُ فِي الْأَهْلِ",
+              "urdu": "اے اللہ! تو ہی سفر میں ساتھی اور اہل خانہ میں نگہبان ہے۔",
+              "english": "O Allah, You are the companion during travel and the guardian of the family."
+            },
+            {
+              "id": 119,
+              "category": "At the End of a Gathering",
+              "arabic": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا أَنْتَ...",
+              "urdu": "اے اللہ! تو پاک ہے، میں گواہی دیتا ہوں کہ تیرے سوا کوئی معبود نہیں...",
+              "english": "Glory is to You, O Allah, I bear witness that none has the right to be worshiped except You..."
+            },
+            {
+              "id": 120,
+              "category": "When Someone Praises You",
+              "arabic": "اللَّهُمَّ لَا تُؤَاخِذْنِي بِمَا يَقُولُونَ...",
+              "urdu": "اے اللہ! جیسا وہ کہتے ہیں ویسا نہ پکڑ، اور مجھے ویسا بنا دے جیسا تو چاہتا ہے۔",
+              "english": "O Allah, do not take me to account for what they say, and make me better than what they think."
+            },
+            {
+              "id": 121,
+              "category": "When You Are Sick",
+              "arabic": "اللَّهُمَّ اشْفِنِي شِفَاءً لَا يُغَادِرُ سَقَمًا",
+              "urdu": "اے اللہ! مجھے ایسا شفاء دے جو بیماری کو نہ چھوڑے۔",
+              "english": "O Allah, grant me healing that leaves behind no illness."
+            },
+            {
+              "id": 122,
+              "category": "When Entering a Market",
+              "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ...",
+              "urdu": "اللہ کے سوا کوئی معبود نہیں، وہ اکیلا ہے، اس کا کوئی شریک نہیں...",
+              "english": "None has the right to be worshiped except Allah alone, with no partner..."
+            },
+            {
+              "id": 123,
+              "category": "For Acceptance of Deeds",
+              "arabic": "رَبَّنَا تَقَبَّلْ مِنَّا إِنَّكَ أَنتَ السَّمِيعُ الْعَلِيمُ",
+              "urdu": "اے ہمارے رب! ہم سے قبول فرما، بے شک تو سننے والا جاننے والا ہے۔",
+              "english": "Our Lord, accept [this] from us. Indeed, You are the Hearing, the Knowing."
+            },
+            {
+              "id": 124,
+              "category": "At the Time of Death",
+              "arabic": "اللَّهُمَّ خُذْ نَفْسِي فِي طَاعَتِكَ",
+              "urdu": "اے اللہ! میری روح اپنی اطاعت میں قبض فرما۔",
+              "english": "O Allah, take my soul in a state of obedience to You."
+            },
+            {
+              "id": 125,
+              "category": "When People Talk Bad About You",
+              "arabic": "اللَّهُمَّ اكْفِنِي شَرَّهُمْ",
+              "urdu": "اے اللہ! مجھے ان کے شر سے بچا۔",
+              "english": "O Allah, protect me from their evil."
+            },
+            {
+              "id": 126,
+              "category": "When Starting Anything New",
+              "arabic": "بِسْمِ اللَّهِ تَوَكَّلْتُ عَلَى اللَّهِ",
+              "urdu": "اللہ کے نام سے، میں اللہ پر بھروسا کرتا ہوں۔",
+              "english": "In the name of Allah, I place my trust in Allah."
+            },
+            {
+              "id": 127,
+              "category": "After Good News",
+              "arabic": "الْـحَمْدُ لِلَّهِ الَّذِي بِنِعْمَتِهِ تَتِمُّ الصَّالِحَاتُ",
+              "urdu": "اللہ کا شکر ہے جس کی نعمت سے نیک کام مکمل ہوتے ہیں۔",
+              "english": "All praise is due to Allah by whose grace good deeds are completed."
+            },
+            {
+              "id": 128,
+              "category": "When You Feel Grateful",
+              "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الشَّاكِرِينَ",
+              "urdu": "اے اللہ! مجھے شکر کرنے والوں میں شامل کر دے۔",
+              "english": "O Allah, make me among the grateful."
+            },
+            {
+              "id": 129,
+              "category": "When Visiting Parents’ Grave",
+              "arabic": "رَبِّ اغْفِرْ لِي وَلِوَالِدَيَّ",
+              "urdu": "اے میرے رب! مجھے اور میرے والدین کو بخش دے۔",
+              "english": "My Lord, forgive me and my parents."
+            },
+            {
+              "id": 130,
+              "category": "For Peace in Heart",
+              "arabic": "اللَّهُمَّ أَنْزِلِ السَّكِينَةَ فِي قَلْبِي",
+              "urdu": "اے اللہ! میرے دل میں سکون نازل فرما۔",
+              "english": "O Allah, send tranquility into my heart."
+            },
+            {
+              "id": 131,
+              "category": "When Starting Salah",
+              "arabic": "وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمَاوَاتِ وَالْأَرْضَ...",
+              "urdu": "میں نے اپنا رخ اس ذات کی طرف کیا جس نے آسمان و زمین کو پیدا کیا...",
+              "english": "I have turned my face towards Him who created the heavens and the earth..."
+            },
+            {
+              "id": 132,
+              "category": "Dua After Fajr",
+              "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْمًا نَافِعًا...",
+              "urdu": "اے اللہ! میں تجھ سے نفع مند علم کا سوال کرتا ہوں...",
+              "english": "O Allah, I ask You for beneficial knowledge..."
+            },
+            {
+              "id": 133,
+              "category": "Dua for Increased Faith",
+              "arabic": "اللَّهُمَّ زِدْنِي إِيمَانًا وَيَقِينًا",
+              "urdu": "اے اللہ! میرے ایمان اور یقین میں اضافہ فرما۔",
+              "english": "O Allah, increase me in faith and certainty."
+            },
+            {
+              "id": 134,
+              "category": "When Seeing Someone Blessed",
+              "arabic": "بَارَكَ اللَّهُ لَكَ",
+              "urdu": "اللہ تمہیں برکت دے۔",
+              "english": "May Allah bless you."
+            },
+            {
+              "id": 135,
+              "category": "Dua to Understand Quran",
+              "arabic": "اللَّهُمَّ فَقِّهْنِي فِي الدِّينِ وَعَلِّمْنِي التَّأْوِيلَ",
+              "urdu": "اے اللہ! مجھے دین کی سمجھ اور قرآن کی تفسیر سکھا۔",
+              "english": "O Allah, give me understanding in religion and teach me interpretation."
+            },
+            {
+              "id": 136,
+              "category": "When Your Heart Feels Heavy",
+              "arabic": "رَبِّ لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا",
+              "urdu": "اے رب! ہدایت دینے کے بعد ہمارے دلوں کو ٹیڑھا نہ کر۔",
+              "english": "Our Lord, let not our hearts deviate after You have guided us."
+            },
+            {
+              "id": 137,
+              "category": "When You Want to Cry",
+              "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الْبَاكِينَ مِنْ خَشْيَتِكَ",
+              "urdu": "اے اللہ! مجھے اپنی خشیت میں رونے والوں میں شامل فرما۔",
+              "english": "O Allah, make me among those who weep out of Your fear."
+            },
+            {
+              "id": 138,
+              "category": "When Seeking Forgiveness for Others",
+              "arabic": "اللَّهُمَّ اغْفِرْ لَهُمْ وَارْحَمْهُمْ وَتُبْ عَلَيْهِمْ",
+              "urdu": "اے اللہ! انہیں بخش دے، ان پر رحم کر، اور ان کی توبہ قبول فرما۔",
+              "english": "O Allah, forgive them, have mercy on them, and accept their repentance."
+            },
+            {
+              "id": 139,
+              "category": "Dua When Seeing Fire",
+              "arabic": "اللَّهُمَّ أَجِرْنَا مِنَ النَّارِ",
+              "urdu": "اے اللہ! ہمیں آگ سے بچا لے۔",
+              "english": "O Allah, protect us from the fire."
+            },
+            {
+              "id": 140,
+              "category": "When Envy Strikes",
+              "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ شَرِّ كُلِّ حَاسِدٍ",
+              "urdu": "اے اللہ! میں ہر حاسد کے شر سے تیری پناہ مانگتا ہوں۔",
+              "english": "O Allah, I seek Your protection from the evil of every envier."
+            },
+            {
+              "id": 141,
+              "category": "When You Feel Weak",
+              "arabic": "يَا قَوِيُّ قَوِّنِي",
+              "urdu": "اے طاقتور! مجھے طاقت عطا فرما۔",
+              "english": "O Powerful One, strengthen me."
+            },
+            {
+              "id": 142,
+              "category": "When Anxious",
+              "arabic": "اللَّهُمَّ اطْمِئْنْ قَلْبِي",
+              "urdu": "اے اللہ! میرے دل کو سکون دے۔",
+              "english": "O Allah, bring peace to my heart."
+            },
+            {
+              "id": 143,
+              "category": "Dua for Halal Earnings",
+              "arabic": "اللَّهُمَّ ارْزُقْنِي حَلَالًا طَيِّبًا",
+              "urdu": "اے اللہ! مجھے پاک اور حلال رزق عطا فرما۔",
+              "english": "O Allah, grant me lawful and pure provision."
+            },
+            {
+              "id": 144,
+              "category": "After Salah (Tasbih)",
+              "arabic": "سُبْحَانَ اللَّهِ 33، الْـحَمْدُ لِلَّهِ 33، اللَّهُ أَكْبَرُ 34",
+              "urdu": "33 بار سبحان اللہ، 33 بار الحمد للہ، 34 بار اللہ اکبر۔",
+              "english": "Say: Subhan Allah 33, Alhamdulillah 33, Allahu Akbar 34."
+            },
+            {
+              "id": 145,
+              "category": "At the Start of a Meal",
+              "arabic": "بِسْمِ اللَّهِ",
+              "urdu": "اللہ کے نام سے۔",
+              "english": "In the name of Allah."
+            },
+            {
+              "id": 146,
+              "category": "After Finishing Food",
+              "arabic": "الْـحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنِي هَذَا...",
+              "urdu": "تمام تعریفیں اللہ کے لیے ہیں جس نے مجھے یہ کھانا کھلایا...",
+              "english": "All praise is due to Allah who fed me this..."
+            },
+            {
+              "id": 147,
+              "category": "When Seeing Rain",
+              "arabic": "مَطَرْنَا بِفَضْلِ اللَّهِ وَرَحْمَتِهِ",
+              "urdu": "ہمیں اللہ کے فضل و رحمت سے بارش ملی۔",
+              "english": "We have been given rain by the grace and mercy of Allah."
+            },
+            {
+              "id": 148,
+              "category": "After Rain Stops",
+              "arabic": "اللَّهُمَّ اجْعَلْهُ صَيِّبًا نَافِعًا",
+              "urdu": "اے اللہ! اسے فائدہ مند بارش بنا دے۔",
+              "english": "O Allah, make it beneficial rainfall."
+            },
+            {
+              "id": 149,
+              "category": "When Heart Is Hardened",
+              "arabic": "اللَّهُمَّ لَيِّنْ قَلْبِي",
+              "urdu": "اے اللہ! میرے دل کو نرم فرما۔",
+              "english": "O Allah, soften my heart."
+            },
+            {
+              "id": 150,
+              "category": "When Angry with Someone",
+              "arabic": "اللَّهُمَّ أَصْلِحْ ذَاتَ بَيْنِنَا",
+              "urdu": "اے اللہ! ہمارے درمیان صلح کر دے۔",
+              "english": "O Allah, reconcile between us."
+            },
+            
+              {
+                "id": 151,
+                "category": "Protection from Laziness",
+                "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْكَسَلِ",
+                "urdu": "اے اللہ! میں سستی سے تیری پناہ مانگتا ہوں۔",
+                "english": "O Allah, I seek refuge in You from laziness."
+              },
+              {
+                "id": 152,
+                "category": "Protection from Cowardice",
+                "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْجُبْنِ",
+                "urdu": "اے اللہ! میں بزدلی سے تیری پناہ مانگتا ہوں۔",
+                "english": "O Allah, I seek refuge in You from cowardice."
+              },
+              {
+                "id": 153,
+                "category": "Protection from Old Age",
+                "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ أَنْ أُرَدَّ إِلَى أَرْذَلِ الْعُمُرِ",
+                "urdu": "اے اللہ! میں اس عمر سے پناہ مانگتا ہوں جس میں کمزوری آ جائے۔",
+                "english": "O Allah, I seek refuge in You from being returned to the worst of ages."
+              },
+              {
+                "id": 154,
+                "category": "For a Pure Heart",
+                "arabic": "اللَّهُمَّ طَهِّرْ قَلْبِي مِنَ النِّفَاقِ",
+                "urdu": "اے اللہ! میرے دل کو نفاق سے پاک کر دے۔",
+                "english": "O Allah, purify my heart from hypocrisy."
+              },
+              {
+                "id": 155,
+                "category": "Against Arrogance",
+                "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الْمُتَوَاضِعِينَ",
+                "urdu": "اے اللہ! مجھے عاجزی اختیار کرنے والوں میں شامل کر دے۔",
+                "english": "O Allah, make me among the humble."
+              },
+              {
+                "id": 156,
+                "category": "Before Entering Washroom",
+                "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبْثِ وَالْخَبَائِثِ",
+                "urdu": "اے اللہ! میں ناپاک مرد و عورتوں سے تیری پناہ مانگتا ہوں۔",
+                "english": "O Allah, I seek refuge in You from the male and female devils."
+              },
+              {
+                "id": 157,
+                "category": "After Exiting Washroom",
+                "arabic": "غُفْرَانَكَ",
+                "urdu": "میں تیری مغفرت چاہتا ہوں۔",
+                "english": "I seek Your forgiveness."
+              },
+              {
+                "id": 158,
+                "category": "Protection from Hypocrisy",
+                "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ نِفَاقِ الْقَلْبِ",
+                "urdu": "اے اللہ! میں دل کے نفاق سے تیری پناہ مانگتا ہوں۔",
+                "english": "O Allah, I seek refuge in You from the hypocrisy of the heart."
+              },
+              {
+                "id": 159,
+                "category": "For Barakah in Time",
+                "arabic": "اللَّهُمَّ بَارِكْ لِي فِي وَقْتِي",
+                "urdu": "اے اللہ! میرے وقت میں برکت دے۔",
+                "english": "O Allah, bless my time."
+              },
+              {
+                "id": 160,
+                "category": "After Drinking Milk",
+                "arabic": "اللَّهُمَّ بَارِكْ لَنَا فِيهِ وَزِدْنَا مِنْهُ",
+                "urdu": "اے اللہ! اس میں ہمارے لیے برکت دے اور ہمیں اس میں اضافہ عطا فرما۔",
+                "english": "O Allah, bless it for us and increase us in it."
+              },
+              {
+                "id": 161,
+                "category": "To See a Good Dream",
+                "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ رُؤْيَا صَالِحَةً",
+                "urdu": "اے اللہ! میں تجھ سے نیک خواب کا سوال کرتا ہوں۔",
+                "english": "O Allah, I ask You for a righteous dream."
+              },
+              {
+                "id": 162,
+                "category": "When Visiting the Sick",
+                "arabic": "لَا بَأْسَ طَهُورٌ إِنْ شَاءَ اللَّهُ",
+                "urdu": "کوئی حرج نہیں، یہ بیماری گناہوں کی پاکی ہے، ان شاء اللہ۔",
+                "english": "No harm, it is a purification, if Allah wills."
+              },
+              {
+                "id": 163,
+                "category": "For Shifa (Healing)",
+                "arabic": "اللَّهُمَّ رَبَّ النَّاسِ أَذْهِبِ الْبَأْسَ اشْفِ",
+                "urdu": "اے لوگوں کے رب! تکلیف دور فرما اور شفا عطا فرما۔",
+                "english": "O Lord of mankind, remove the harm and grant healing."
+              },
+              {
+                "id": 164,
+                "category": "Dua After Rain",
+                "arabic": "اللَّهُمَّ صَيِّبًا نَافِعًا",
+                "urdu": "اے اللہ! اسے فائدہ مند بارش بنا۔",
+                "english": "O Allah, let it be a beneficial rain."
+              },
+              {
+                "id": 165,
+                "category": "When Looking in the Mirror",
+                "arabic": "اللَّهُمَّ كَمَا أَحْسَنْتَ خَلْقِي فَحَسِّنْ خُلُقِي",
+                "urdu": "اے اللہ! جیسے تو نے میری صورت اچھی بنائی، ویسے ہی میرا اخلاق بھی اچھا بنا۔",
+                "english": "O Allah, just as You have beautified my appearance, beautify my character."
+              },
+              {
+                "id": 166,
+                "category": "When Overwhelmed",
+                "arabic": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+                "urdu": "ہمیں اللہ کافی ہے، اور وہ بہترین کارساز ہے۔",
+                "english": "Sufficient for us is Allah, and He is the best disposer of affairs."
+              },
+              {
+                "id": 167,
+                "category": "When Something Is Difficult",
+                "arabic": "اللَّهُمَّ لَا سَهْلَ إِلَّا مَا جَعَلْتَهُ سَهْلًا",
+                "urdu": "اے اللہ! کوئی چیز آسان نہیں مگر وہ جو تو آسان کر دے۔",
+                "english": "O Allah, there is nothing easy except what You make easy."
+              },
+              {
+                "id": 168,
+                "category": "Dua When Giving Charity",
+                "arabic": "اللَّهُمَّ تَقَبَّلْ مِنِّي",
+                "urdu": "اے اللہ! میری صدقہ قبول فرما۔",
+                "english": "O Allah, accept from me."
+              },
+              {
+                "id": 169,
+                "category": "When Angry",
+                "arabic": "أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+                "urdu": "میں اللہ کی پناہ چاہتا ہوں شیطان مردود سے۔",
+                "english": "I seek refuge in Allah from the accursed devil."
+              },
+              {
+                "id": 170,
+                "category": "Entering the House",
+                "arabic": "بِسْمِ اللَّهِ وَلَجْنَا، وَبِسْمِ اللَّهِ خَرَجْنَا...",
+                "urdu": "اللہ کے نام سے ہم داخل ہوتے ہیں، اور اللہ کے نام سے نکلتے ہیں...",
+                "english": "In the name of Allah we enter and in the name of Allah we leave..."
+              },
+              {
+                "id": 171,
+                "category": "Exiting the House",
+                "arabic": "بِسْمِ اللَّهِ تَوَكَّلْتُ عَلَى اللَّهِ...",
+                "urdu": "اللہ کے نام سے، میں نے اللہ پر بھروسا کیا...",
+                "english": "In the name of Allah, I place my trust in Allah..."
+              },
+              {
+                "id": 172,
+                "category": "Dua When Someone Does Favor",
+                "arabic": "جَزَاكَ اللَّهُ خَيْرًا",
+                "urdu": "اللہ آپ کو جزائے خیر دے۔",
+                "english": "May Allah reward you with goodness."
+              },
+              {
+                "id": 173,
+                "category": "For a Successful Day",
+                "arabic": "اللَّهُمَّ اجْعَلْ صَبَاحِي خَيْرًا",
+                "urdu": "اے اللہ! میری صبح کو بہتر بنا۔",
+                "english": "O Allah, make my morning good."
+              },
+              {
+                "id": 174,
+                "category": "When You’re Grateful",
+                "arabic": "الْـحَمْدُ لِلَّهِ عَلَى نِعْمَتِهِ",
+                "urdu": "اللہ کا شکر ہے اس کی نعمت پر۔",
+                "english": "All praise is for Allah for His blessing."
+              },
+              {
+                "id": 175,
+                "category": "After a Journey",
+                "arabic": "آيِبُونَ تَائِبُونَ عَابِدُونَ لِرَبِّنَا حَامِدُونَ",
+                "urdu": "ہم واپس آئے، توبہ کرنے والے، عبادت گزار، اور اپنے رب کی حمد کرنے والے ہیں۔",
+                "english": "We return, repenting, worshiping, and praising our Lord."
+              },
+              {
+                "id": 176,
+                "category": "During Eclipse Prayer",
+                "arabic": "اللَّهُ أَكْبَرُ، سُبْحَانَ اللَّهِ، أَسْتَغْفِرُ اللَّهَ",
+                "urdu": "اللہ سب سے بڑا ہے، اللہ پاک ہے، میں اللہ سے معافی مانگتا ہوں۔",
+                "english": "Allah is the Greatest, Glory be to Allah, I seek forgiveness from Allah."
+              },
+              {
+                "id": 177,
+                "category": "When Afflicted by Calamity",
+                "arabic": "إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ",
+                "urdu": "ہم اللہ کے لیے ہیں اور ہم اسی کی طرف لوٹنے والے ہیں۔",
+                "english": "Indeed we belong to Allah, and indeed to Him we will return."
+              },
+              {
+                "id": 178,
+                "category": "For Strength in Faith",
+                "arabic": "اللَّهُمَّ ثَبِّتْ قَلْبِي عَلَى دِينِكَ",
+                "urdu": "اے اللہ! میرے دل کو اپنے دین پر ثابت قدم رکھ۔",
+                "english": "O Allah, keep my heart firm upon Your religion."
+              },
+              {
+                "id": 179,
+                "category": "Against Bad Thoughts",
+                "arabic": "اللَّهُمَّ طَهِّرْ فِكْرِي وَنَفْسِي",
+                "urdu": "اے اللہ! میرے خیالات اور نفس کو پاک فرما۔",
+                "english": "O Allah, purify my thoughts and my soul."
+              },
+              {
+                "id": 180,
+                "category": "For Good Company",
+                "arabic": "اللَّهُمَّ اجْعَلْنِي مَعَ الصَّالِحِينَ",
+                "urdu": "اے اللہ! مجھے نیک لوگوں کے ساتھ رکھ۔",
+                "english": "O Allah, place me among the righteous."
+              },
+              {
+                "id": 181,
+                "category": "For Forgiveness and Mercy",
+                "arabic": "اللَّهُمَّ اغْفِرْ لِي وَارْحَمْنِي",
+                "urdu": "اے اللہ! مجھے بخش دے اور مجھ پر رحم فرما۔",
+                "english": "O Allah, forgive me and have mercy on me."
+              },
+              {
+                "id": 182,
+                "category": "To Improve Akhlaaq",
+                "arabic": "اللَّهُمَّ زَيِّنِّي بِحُسْنِ الْخُلُقِ",
+                "urdu": "اے اللہ! مجھے بہترین اخلاق سے مزین فرما۔",
+                "english": "O Allah, beautify me with good character."
+              },
+              {
+                "id": 183,
+                "category": "When in Despair",
+                "arabic": "اللَّهُمَّ لَا تَكِلْنِي إِلَى نَفْسِي",
+                "urdu": "اے اللہ! مجھے میرے نفس کے حوالے نہ کر۔",
+                "english": "O Allah, do not leave me to my own self."
+              },
+              {
+                "id": 184,
+                "category": "After Good Deed",
+                "arabic": "تَقَبَّلَ اللَّهُ مِنَّا",
+                "urdu": "اللہ ہم سے قبول فرمائے۔",
+                "english": "May Allah accept it from us."
+              },
+              {
+                "id": 185,
+                "category": "For Allah’s Love",
+                "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ حُبَّكَ",
+                "urdu": "اے اللہ! میں تجھ سے تیری محبت مانگتا ہوں۔",
+                "english": "O Allah, I ask You for Your love."
+              },
+              {
+                "id": 186,
+                "category": "For Jannah",
+                "arabic": "اللَّهُمَّ اجْعَلْنِي مِنْ أَهْلِ الْجَنَّةِ",
+                "urdu": "اے اللہ! مجھے جنت والوں میں شامل فرما۔",
+                "english": "O Allah, make me among the people of Paradise."
+              },
+              {
+                "id": 187,
+                "category": "For Protection in Sleep",
+                "arabic": "اللَّهُمَّ احْفَظْنِي فِي مَنَامِي",
+                "urdu": "اے اللہ! نیند کے دوران میری حفاظت فرما۔",
+                "english": "O Allah, protect me during my sleep."
+              },
+              {
+                "id": 188,
+                "category": "For Acceptance of Efforts",
+                "arabic": "اللَّهُمَّ تَقَبَّلْ سَعْيِي",
+                "urdu": "اے اللہ! میری کوشش کو قبول فرما۔",
+                "english": "O Allah, accept my effort."
+              },
+              {
+                "id": 189,
+                "category": "To Remove Doubts",
+                "arabic": "اللَّهُمَّ اجْعَلْ قَلْبِي مُطْمَئِنًّا",
+                "urdu": "اے اللہ! میرے دل کو مطمئن کر دے۔",
+                "english": "O Allah, make my heart content."
+              },
+              {
+                "id": 190,
+                "category": "When Feeling Guilty",
+                "arabic": "اللَّهُمَّ إِنِّي ظَلَمْتُ نَفْسِي فَاغْفِرْ لِي",
+                "urdu": "اے اللہ! میں نے اپنی جان پر ظلم کیا، مجھے معاف فرما۔",
+                "english": "O Allah, I have wronged myself, so forgive me."
+              }
+            
+            
+          
+          
+        
+      
+      
+    
+    
+  ]
+  
+

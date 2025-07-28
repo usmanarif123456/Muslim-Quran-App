@@ -1,0 +1,599 @@
+[
+  {
+    "id": 1,
+    "arabic": "الرَّحْمَنُ",
+    "english": "The Most Gracious",
+    "urdu": "نہایت مہربان"
+  },
+  {
+    "id": 2,
+    "arabic": "الرَّحِيمُ",
+    "english": "The Most Merciful",
+    "urdu": "نہایت رحم کرنے والا"
+  },
+  {
+    "id": 3,
+    "arabic": "الْمَلِكُ",
+    "english": "The King",
+    "urdu": "بادشاہ"
+  },
+  {
+    "id": 4,
+    "arabic": "الْقُدُّوسُ",
+    "english": "The Most Holy",
+    "urdu": "بہت مقدس"
+  },
+  {
+    "id": 5,
+    "arabic": "السَّلَامُ",
+    "english": "The Source of Peace",
+    "urdu": "سلامتی دینے والا"
+  },
+  {
+    "id": 6,
+    "arabic": "الْمُؤْمِنُ",
+    "english": "The Guardian of Faith",
+    "urdu": "ایمان دینے والا"
+  },
+  {
+    "id": 7,
+    "arabic": "الْمُهَيْمِنُ",
+    "english": "The Protector",
+    "urdu": "نگہبان"
+  },
+  {
+    "id": 8,
+    "arabic": "الْعَزِيزُ",
+    "english": "The Almighty",
+    "urdu": "سب پر غالب"
+  },
+  {
+    "id": 9,
+    "arabic": "الْجَبَّارُ",
+    "english": "The Compeller",
+    "urdu": "زبردست"
+  },
+  {
+    "id": 10,
+    "arabic": "الْمُتَكَبِّرُ",
+    "english": "The Supreme",
+    "urdu": "بڑائی والا"
+  },
+  {
+    "id": 11,
+    "arabic": "الْخَالِقُ",
+    "english": "The Creator",
+    "urdu": "پیدا کرنے والا"
+  },
+  {
+    "id": 12,
+    "arabic": "الْبَارِئُ",
+    "english": "The Evolver",
+    "urdu": "وجود میں لانے والا"
+  },
+  {
+    "id": 13,
+    "arabic": "الْمُصَوِّرُ",
+    "english": "The Fashioner",
+    "urdu": "صورت بنانے والا"
+  },
+  {
+    "id": 14,
+    "arabic": "الْغَفَّارُ",
+    "english": "The Constant Forgiver",
+    "urdu": "بار بار معاف کرنے والا"
+  },
+  {
+    "id": 15,
+    "arabic": "الْقَهَّارُ",
+    "english": "The All-Subduer",
+    "urdu": "ہر چیز پر غالب"
+  },
+  {
+    "id": 16,
+    "arabic": "الْوَهَّابُ",
+    "english": "The Supreme Bestower",
+    "urdu": "بے حساب عطا کرنے والا"
+  },
+  {
+    "id": 17,
+    "arabic": "الرَّزَّاقُ",
+    "english": "The Provider",
+    "urdu": "رزق دینے والا"
+  },
+  {
+    "id": 18,
+    "arabic": "الْفَتَّاحُ",
+    "english": "The Supreme Opener",
+    "urdu": "کھولنے والا"
+  },
+  {
+    "id": 19,
+    "arabic": "اَلْعَلِيْمُ",
+    "english": "The All-Knowing",
+    "urdu": "سب کچھ جاننے والا"
+  },
+  {
+    "id": 20,
+    "arabic": "الْقَابِضُ",
+    "english": "The Withholder",
+    "urdu": "روکنے والا"
+  },
+  {
+    "id": 21,
+    "arabic": "الْبَاسِطُ",
+    "english": "The Extender",
+    "urdu": "کشادگی دینے والا"
+  },
+  {
+    "id": 22,
+    "arabic": "الْخَافِضُ",
+    "english": "The Reducer",
+    "urdu": "پست کرنے والا"
+  },
+  {
+    "id": 23,
+    "arabic": "الرَّافِعُ",
+    "english": "The Exalter",
+    "urdu": "بلند درجے والا"
+  },
+  {
+    "id": 24,
+    "arabic": "الْمُعِزُّ",
+    "english": "The Honourer",
+    "urdu": "عزت دینے والا"
+  },
+  {
+    "id": 25,
+    "arabic": "المُذِلُّ",
+    "english": "The Dishonourer",
+    "urdu": "ذلت دینے والا"
+  },
+  {
+    "id": 26,
+    "arabic": "السَّمِيعُ",
+    "english": "The All-Hearing",
+    "urdu": "سب کچھ سننے والا"
+  },
+  {
+    "id": 27,
+    "arabic": "الْبَصِيرُ",
+    "english": "The All-Seeing",
+    "urdu": "سب کچھ دیکھنے والا"
+  },
+  {
+    "id": 28,
+    "arabic": "الْحَكَمُ",
+    "english": "The Impartial Judge",
+    "urdu": "فیصلہ کرنے والا"
+  },
+  {
+    "id": 29,
+    "arabic": "الْعَدْلُ",
+    "english": "The Utterly Just",
+    "urdu": "انصاف کرنے والا"
+  },
+  {
+    "id": 30,
+    "arabic": "اللَّطِيفُ",
+    "english": "The Subtle One",
+    "urdu": "نرمی کرنے والا"
+  },
+  {
+    "id": 31,
+    "arabic": "الْخَبِيرُ",
+    "english": "The All-Aware",
+    "urdu": "خبر رکھنے والا"
+  },
+  {
+    "id": 32,
+    "arabic": "الْحَلِيمُ",
+    "english": "The Most Forbearing",
+    "urdu": "بردبار"
+  },
+  {
+    "id": 33,
+    "arabic": "الْعَظِيمُ",
+    "english": "The Magnificent",
+    "urdu": "بہت عظمت والا"
+  },
+  {
+    "id": 34,
+    "arabic": "الْغَفُورُ",
+    "english": "The Great Forgiver",
+    "urdu": "بہت زیادہ بخشنے والا"
+  },
+  {
+    "id": 35,
+    "arabic": "الشَّكُورُ",
+    "english": "The Most Appreciative",
+    "urdu": "قدردانی کرنے والا"
+  },
+  {
+    "id": 36,
+    "arabic": "الْعَلِيُّ",
+    "english": "The Most High",
+    "urdu": "سب سے بلند"
+  },
+  {
+    "id": 37,
+    "arabic": "الْكَبِيرُ",
+    "english": "The Most Great",
+    "urdu": "بہت بڑا"
+  },
+  {
+    "id": 38,
+    "arabic": "الْحَفِيظُ",
+    "english": "The Preserver",
+    "urdu": "محافظ"
+  },
+  {
+    "id": 39,
+    "arabic": "المُقيِت",
+    "english": "The Sustainer",
+    "urdu": "رزق دینے والا"
+  },
+  {
+    "id": 40,
+    "arabic": "الْحسِيبُ",
+    "english": "The Reckoner",
+    "urdu": "حساب لینے والا"
+  },
+  {
+    "id": 41,
+    "arabic": "الْجَلِيلُ",
+    "english": "The Majestic",
+    "urdu": "بزرگی والا"
+  },
+  {
+    "id": 42,
+    "arabic": "الْكَرِيمُ",
+    "english": "The Most Generous",
+    "urdu": "نہایت عزت والا"
+  },
+  {
+    "id": 43,
+    "arabic": "الرَّقِيبُ",
+    "english": "The Watchful",
+    "urdu": "نگران"
+  },
+  {
+    "id": 44,
+    "arabic": "الْمُجِيبُ",
+    "english": "The Responsive One",
+    "urdu": "جواب دینے والا"
+  },
+  {
+    "id": 45,
+    "arabic": "الْوَاسِعُ",
+    "english": "The All-Encompassing",
+    "urdu": "وسعت والا"
+  },
+  {
+    "id": 46,
+    "arabic": "الْحَكِيمُ",
+    "english": "The All-Wise",
+    "urdu": "بہت حکمت والا"
+  },
+  {
+    "id": 47,
+    "arabic": "الْوَدُودُ",
+    "english": "The Most Loving",
+    "urdu": "محبت کرنے والا"
+  },
+  {
+    "id": 48,
+    "arabic": "الْمَجِيدُ",
+    "english": "The Glorious",
+    "urdu": "بہت بزرگی والا"
+  },
+  {
+    "id": 49,
+    "arabic": "الْبَاعِثُ",
+    "english": "The Infuser of New Life",
+    "urdu": "دوبارہ زندہ کرنے والا"
+  },
+  {
+    "id": 50,
+    "arabic": "الشَّهِيدُ",
+    "english": "The All-and-Ever Witnessing",
+    "urdu": "گواہ"
+  }
+  ,
+    {
+      "id": 51,
+      "arabic": "الْحَقُّ",
+      "english": "The Absolute Truth",
+      "urdu": "سچ"
+    },
+    {
+      "id": 52,
+      "arabic": "الْوَكِيلُ",
+      "english": "The Trustee",
+      "urdu": "کارساز"
+    },
+    {
+      "id": 53,
+      "arabic": "الْقَوِيُ",
+      "english": "The All-Strong",
+      "urdu": "زبردست طاقت والا"
+    },
+    {
+      "id": 54,
+      "arabic": "الْمَتِينُ",
+      "english": "The Firm One",
+      "urdu": "سخت زور آور"
+    },
+    {
+      "id": 55,
+      "arabic": "الْوَلِيُّ",
+      "english": "The Protecting Associate",
+      "urdu": "مددگار، دوست"
+    },
+    {
+      "id": 56,
+      "arabic": "الْحَمِيدُ",
+      "english": "The Praiseworthy",
+      "urdu": "لائق تعریف"
+    },
+    {
+      "id": 57,
+      "arabic": "الْمُحْصِي",
+      "english": "The All-Enumerating",
+      "urdu": "گننے والا"
+    },
+    {
+      "id": 58,
+      "arabic": "الْمُبْدِئُ",
+      "english": "The Originator",
+      "urdu": "ابتداء کرنے والا"
+    },
+    {
+      "id": 59,
+      "arabic": "الْمُعِيدُ",
+      "english": "The Restorer",
+      "urdu": "پھر پیدا کرنے والا"
+    },
+    {
+      "id": 60,
+      "arabic": "الْمُحْيِي",
+      "english": "The Giver of Life",
+      "urdu": "زندگی دینے والا"
+    },
+    {
+      "id": 61,
+      "arabic": "اَلْمُمِيتُ",
+      "english": "The Creator of Death",
+      "urdu": "موت دینے والا"
+    },
+    {
+      "id": 62,
+      "arabic": "الْحَيُّ",
+      "english": "The Ever-Living",
+      "urdu": "ہمیشہ زندہ رہنے والا"
+    },
+    {
+      "id": 63,
+      "arabic": "الْقَيُّومُ",
+      "english": "The Sustainer",
+      "urdu": "سب کو سنبھالنے والا"
+    },
+    {
+      "id": 64,
+      "arabic": "الْوَاجِدُ",
+      "english": "The Perceiver",
+      "urdu": "پانے والا"
+    },
+    {
+      "id": 65,
+      "arabic": "الْمَاجِدُ",
+      "english": "The Glorious",
+      "urdu": "بزرگی والا"
+    },
+    {
+      "id": 66,
+      "arabic": "الواحِدُ",
+      "english": "The Indivisible, The One",
+      "urdu": "ایک، یکتا"
+    },
+    {
+      "id": 67,
+      "arabic": "اَلاَحَدُ",
+      "english": "The Indivisible, The Absolute",
+      "urdu": "اکیلا"
+    },
+    {
+      "id": 68,
+      "arabic": "الصَّمَدُ",
+      "english": "The Self-Sufficient",
+      "urdu": "بے نیاز"
+    },
+    {
+      "id": 69,
+      "arabic": "الْقَادِرُ",
+      "english": "The Omnipotent",
+      "urdu": "قدرت رکھنے والا"
+    },
+    {
+      "id": 70,
+      "arabic": "الْمُقْتَدِرُ",
+      "english": "The Creator of All Power",
+      "urdu": "سب پر قدرت رکھنے والا"
+    },
+    {
+      "id": 71,
+      "arabic": "الْمُقَدِّمُ",
+      "english": "The Expediter",
+      "urdu": "آگے کرنے والا"
+    },
+    {
+      "id": 72,
+      "arabic": "الْمُؤَخِّرُ",
+      "english": "The Delayer",
+      "urdu": "پیچھے کرنے والا"
+    },
+    {
+      "id": 73,
+      "arabic": "الأوَّلُ",
+      "english": "The First",
+      "urdu": "سب سے پہلا"
+    },
+    {
+      "id": 74,
+      "arabic": "الآخِرُ",
+      "english": "The Last",
+      "urdu": "سب کے بعد باقی رہنے والا"
+    },
+    {
+      "id": 75,
+      "arabic": "الظَّاهِرُ",
+      "english": "The Manifest",
+      "urdu": "ظاہر"
+    },
+    {
+      "id": 76,
+      "arabic": "الْبَاطِنُ",
+      "english": "The Hidden One, Knower of the Hidden",
+      "urdu": "پوشیدہ"
+    },
+    {
+      "id": 77,
+      "arabic": "الْوَالِي",
+      "english": "The Sole Governor",
+      "urdu": "کارساز"
+    },
+    {
+      "id": 78,
+      "arabic": "الْمُتَعَالِي",
+      "english": "The Self Exalted",
+      "urdu": "بہت بلند"
+    },
+    {
+      "id": 79,
+      "arabic": "الْبَرُّ",
+      "english": "The Source of All Goodness",
+      "urdu": "بھلائی کرنے والا"
+    },
+    {
+      "id": 80,
+      "arabic": "التَّوَابُ",
+      "english": "The Ever-Accepter of Repentance",
+      "urdu": "توبہ قبول کرنے والا"
+    },
+    {
+      "id": 81,
+      "arabic": "الْمُنْتَقِمُ",
+      "english": "The Avenger",
+      "urdu": "بدلہ لینے والا"
+    },
+    {
+      "id": 82,
+      "arabic": "العَفُوُ",
+      "english": "The Supreme Pardoner",
+      "urdu": "معاف کرنے والا"
+    },
+    {
+      "id": 83,
+      "arabic": "الرَّؤُوفُ",
+      "english": "The Most Kind",
+      "urdu": "بہت مہربان"
+    },
+    {
+      "id": 84,
+      "arabic": "مَالِكُ ٱلْمُلْكُ",
+      "english": "Master of the Kingdom, Owner of the Dominion",
+      "urdu": "بادشاہی کا مالک"
+    },
+    {
+      "id": 85,
+      "arabic": "ذُوالْجَلاَلِ وَالإكْرَامِ",
+      "english": "Lord of Glory and Honour, Lord of Majesty and Generosity",
+      "urdu": "بزرگی اور عزت والا"
+    },
+    {
+      "id": 86,
+      "arabic": "الْمُقْسِطُ",
+      "english": "The Just One",
+      "urdu": "انصاف کرنے والا"
+    },
+    {
+      "id": 87,
+      "arabic": "الْجَامِعُ",
+      "english": "The Gatherer, the Uniter",
+      "urdu": "اکٹھا کرنے والا"
+    },
+    {
+      "id": 88,
+      "arabic": "ٱلْغَنيُ",
+      "english": "The Self-Sufficient, The Wealthy",
+      "urdu": "بے پروا"
+    },
+    {
+      "id": 89,
+      "arabic": "ٱلْمُغْنِيُ",
+      "english": "The Enricher",
+      "urdu": "غنی کر دینے والا"
+    },
+    {
+      "id": 90,
+      "arabic": "ٱلْمَانِعُ",
+      "english": "The Withholder",
+      "urdu": "روکنے والا"
+    },
+    {
+      "id": 91,
+      "arabic": "الضَّارَ",
+      "english": "Distresser",
+      "urdu": "نقصان دینے والا"
+    },
+    {
+      "id": 92,
+      "arabic": "النَّافِعُ",
+      "english": "Propitious, the Benefactor",
+      "urdu": "نفع دینے والا"
+    },
+    {
+      "id": 93,
+      "arabic": "النُّورُ",
+      "english": "The Light, The Illuminator",
+      "urdu": "روشنی دینے والا"
+    },
+    {
+      "id": 94,
+      "arabic": "الْهَادِي",
+      "english": "The Guide",
+      "urdu": "ہدایت دینے والا"
+    },
+    {
+      "id": 95,
+      "arabic": "الْبَدِيعُ",
+      "english": "Incomparable Originator",
+      "urdu": "نرالا پیدا کرنے والا"
+    },
+    {
+      "id": 96,
+      "arabic": "اَلْبَاقِي",
+      "english": "The Everlasting",
+      "urdu": "ہمیشہ باقی رہنے والا"
+    },
+    {
+      "id": 97,
+      "arabic": "الْوَارِثُ",
+      "english": "The Inheritor, the Heir",
+      "urdu": "سب کے بعد وارث رہنے والا"
+    },
+    {
+      "id": 98,
+      "arabic": "الرَّشِيدُ",
+      "english": "Guide, Infallible Teacher, and Knower",
+      "urdu": "سیدھی راہ دکھانے والا"
+    },
+    {
+      "id": 99,
+      "arabic": "الصَّبُورُ",
+      "english": "The Forbearing, The Patient",
+      "urdu": "بڑا صبر کرنے والا"
+    }
+  
+  
+]

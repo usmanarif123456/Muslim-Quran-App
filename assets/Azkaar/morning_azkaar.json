@@ -1,0 +1,461 @@
+[
+    {
+      "id": 1,
+      "category": "Morning",
+      "title": "Sayyidul Istighfar",
+      "context": "Start of the morning to seek forgiveness",
+      "arabic": "اللّهُـمَّ أَنْتَ رَبِّـي، لا إِلـهَ إِلاّ أَنْتَ، خَلَقْتَني وَأَنا عَبْـدُك...",
+      "urdu": "اے اللہ! تو ہی میرا رب ہے، تیرے سوا کوئی معبود نہیں، تو نے مجھے پیدا کیا اور میں تیرا بندہ ہوں...",
+      "english": "O Allah! You are my Lord, none has the right to be worshipped except You. You created me and I am Your servant..."
+    },
+    {
+      "id": 2,
+      "category": "Morning",
+      "title": "Pleased with Allah",
+      "context": "To renew faith in the morning",
+      "arabic": "رَضِيتُ بِاللَّهِ رَبًّا، وَبِالإِسْلاَمِ دِينًا، وَبِمُحَمَّدٍ ﷺ نَبِيًّا.",
+      "urdu": "میں اللہ کو رب، اسلام کو دین، اور محمد ﷺ کو نبی مان کر راضی ہوں۔",
+      "english": "I am pleased with Allah as my Lord, Islam as my religion, and Muhammad ﷺ as my Prophet."
+    },
+    {
+      "id": 3,
+      "category": "Morning",
+      "title": "Morning & Evening Transition",
+      "context": "Entering morning or evening",
+      "arabic": "اللّهُـمَّ بكَ أَصْبَـحْنا، وبِكَ أَمْسَـينا، وَبِكَ نَحْـيا، وَبِكَ نَمـوتُ، وَإِلَـيْكَ النُّـشُور.",
+      "urdu": "اے اللہ! تیرے ہی ساتھ ہم نے صبح کی، تیرے ہی ساتھ شام کی، تیرے ہی ساتھ جیتے ہیں اور مرتے ہیں، اور تیری ہی طرف لوٹنا ہے۔",
+      "english": "O Allah, by You we enter the morning and the evening, by You we live and die, and to You is the resurrection."
+    },
+    {
+      "id": 4,
+      "category": "Morning",
+      "title": "Glorify and Praise Allah",
+      "context": "When waking up or remembering Allah",
+      "arabic": "سُبْحـانَ اللّهِ وَبِحَمْـدِهِ.",
+      "urdu": "اللہ پاک ہے اور اس کی حمد کے ساتھ۔",
+      "english": "Glory is to Allah and praise is to Him."
+    },
+    {
+      "id": 5,
+      "category": "Morning",
+      "title": "Dua for Health",
+      "context": "Morning health and protection supplication",
+      "arabic": "اللّهُـمَّ عافِـني في بَدَنـي، اللّهُـمَّ عافِـني في سَمْعـي، اللّهُـمَّ عافِـني في بَصَـري...",
+      "urdu": "اے اللہ! میرے جسم کو، میری سماعت کو، اور میری بصارت کو عافیت عطا فرما۔",
+      "english": "O Allah, grant my body, my hearing, and my sight good health."
+    },
+    
+        {
+          "id": 6,
+          "category": "Morning",
+          "title": "Seeking Protection from Evil",
+          "context": "To ask Allah for protection every morning",
+          "arabic": "اللّهُـمَّ إِنِّي أَعوذُ بِكَ مِنَ الْكُفْرِ وَالْفَقْرِ، وَأَعوذُ بِكَ مِنْ عَذَابِ الْقَبْرِ، لا إِلَـهَ إِلاّ أَنْتَ.",
+          "urdu": "اے اللہ! میں کفر اور فقر سے، اور قبر کے عذاب سے تیری پناہ چاہتا ہوں، تیرے سوا کوئی معبود نہیں۔",
+          "english": "O Allah, I seek refuge in You from disbelief and poverty, and I seek refuge in You from the punishment of the grave. There is no deity but You."
+        },
+        {
+          "id": 7,
+          "category": "Morning",
+          "title": "Forgiveness 100 times",
+          "context": "Morning remembrance with frequent forgiveness",
+          "arabic": "أَسْتَغْفِرُ اللّٰهَ وَأَتُوبُ إِلَيْهِ",
+          "urdu": "میں اللہ سے بخشش مانگتا ہوں اور اسی کی طرف توبہ کرتا ہوں۔",
+          "english": "I seek Allah's forgiveness and turn to Him in repentance."
+        },
+        {
+          "id": 8,
+          "category": "Morning",
+          "title": "Dua for Sufficient Provision",
+          "context": "Asking Allah for adequate sustenance",
+          "arabic": "اللّهُـمَّ اكْفِني بِحَلالِكَ عَنْ حَرامِكَ، وَأَغْنِني بِفَضْلِكَ عَمَّنْ سِواكَ.",
+          "urdu": "اے اللہ! مجھے حلال ذریعہ سے کافی کر دے، حرام سے بچا، اور اپنے فضل سے دوسروں سے بے نیاز کر دے۔",
+          "english": "O Allah, suffice me with what You have allowed instead of what You have forbidden, and make me independent of all others besides You."
+        },
+        {
+          "id": 9,
+          "category": "Morning",
+          "title": "Three Times Surah Ikhlas",
+          "context": "Protection and reward in the morning",
+          "arabic": "قُلْ هُوَ اللَّهُ أَحَدٌ * اللَّهُ الصَّمَدُ * لَمْ يَلِدْ وَلَمْ يُولَدْ * وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
+          "urdu": "کہہ دیجئے: وہ اللہ ایک ہے، اللہ بے نیاز ہے، نہ اس نے کسی کو جنا اور نہ وہ جنا گیا، اور اس کے برابر کوئی نہیں۔",
+          "english": "Say: He is Allah, the One. Allah, the Eternal Refuge. He neither begets nor is born, nor is there to Him any equivalent."
+        },
+        {
+          "id": 10,
+          "category": "Morning",
+          "title": "Praise and Protection",
+          "context": "Morning remembrance of praise and safety",
+          "arabic": "اللّهُـمَّ ما أَصْبَـحَ بي مِن نِّعْـمَةٍ أَو بِأَحَدٍ مِّنْ خَلْقِـكَ فَمِنْـكَ وَحدَكَ لا شَريكَ لَـكَ، فَلَكَ الْحَـمْدُ وَلَكَ الشُّكْـر.",
+          "urdu": "اے اللہ! جو بھی نعمت مجھے یا تیری کسی بھی مخلوق کو صبح حاصل ہوئی وہ صرف تیری طرف سے ہے، تیرا کوئی شریک نہیں، پس تیرے لیے ہی حمد ہے اور تیرے ہی لیے شکر۔",
+          "english": "O Allah, whatever blessing has come to me or any of Your creation this morning is from You alone; You have no partner. So for You is all praise and unto You all thanks."
+        },
+        {
+          "id": 11,
+          "category": "Morning",
+          "title": "Protection from Harm",
+          "context": "Morning protection from calamities",
+          "arabic": "بِسْمِ اللهِ الَّذِي لا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الأَرْضِ وَلا فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+          "urdu": "اللہ کے نام سے جس کے ساتھ زمین و آسمان کی کوئی چیز نقصان نہیں دے سکتی، اور وہی سننے والا، جاننے والا ہے۔",
+          "english": "In the name of Allah, with whose name nothing on earth or in the heavens can cause harm, and He is the All-Hearing, All-Knowing."
+        },
+        {
+          "id": 12,
+          "category": "Morning",
+          "title": "Dua for Guidance",
+          "context": "Asking Allah for guidance and piety in the morning",
+          "arabic": "اللَّهُمَّ اهْدِنِي وَسَدِّدْنِي",
+          "urdu": "اے اللہ! مجھے ہدایت دے اور مجھے درست رکھ۔",
+          "english": "O Allah, guide me and keep me upright."
+        },
+        {
+          "id": 13,
+          "category": "Morning",
+          "title": "Thanking Allah for Health",
+          "context": "Gratitude for physical strength and well-being",
+          "arabic": "الْـحَمْدُ لِلّٰـهِ الَّذِي عَافَانِي فِي جَسَدِي، وَرَدَّ عَلَيَّ رُوحِي، وَأَذِنَ لِي بِذِكْرِهِ",
+          "urdu": "تمام تعریفیں اللہ کے لیے ہیں جس نے میرے جسم کو تندرست رکھا، میری روح لوٹائی اور مجھے اپنا ذکر کرنے کی اجازت دی۔",
+          "english": "All praise is due to Allah who gave strength to my body, returned my soul to me, and permitted me to remember Him."
+        },
+        {
+          "id": 14,
+          "category": "Morning",
+          "title": "Affirming Faith in the Morning",
+          "context": "Declaration of Tawheed and faith",
+          "arabic": "اللّهُـمَّ إِنِّي أَصْبَـحْتُ أُشْـهِدُكَ وَأُشْـهِدُ حَمَـلَةَ عَرْشِـكَ وَمَلائِكَتَـكَ وَجَـمِيعَ خَلْقِـكَ، أَنَّكَ أَنْتَ اللّهُ لا إِلَـهَ إِلاّ أَنْتَ...",
+          "urdu": "اے اللہ! میں گواہی دیتا ہوں اور تیرے عرش کے اٹھانے والوں، فرشتوں اور تمام مخلوق کو گواہ بناتا ہوں کہ بے شک تو ہی اللہ ہے، تیرے سوا کوئی معبود نہیں...",
+          "english": "O Allah, I enter this morning calling You and the bearers of Your Throne, Your angels, and all creation to witness that surely You are Allah, there is no deity except You..."
+        },
+        {
+          "id": 15,
+          "category": "Morning",
+          "title": "Protection from Laziness",
+          "context": "Seeking strength and protection from weakness",
+          "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْعَجْزِ وَالْكَسَلِ",
+          "urdu": "اے اللہ! میں عاجزی اور سستی سے تیری پناہ چاہتا ہوں۔",
+          "english": "O Allah, I seek refuge in You from incapacity and laziness."
+        },
+        
+            {
+              "id": 16,
+              "category": "Morning",
+              "title": "Supplication for Knowledge and Provision",
+              "context": "Seeking beneficial knowledge and lawful provision",
+              "arabic": "اللّهُمَّ إِنِّي أَسْأَلُكَ عِلْمًا نَافِعًا، وَرِزْقًا طَيِّبًا، وَعَمَلًا مُتَقَبَّلًا",
+              "urdu": "اے اللہ! میں تجھ سے نفع دینے والا علم، پاکیزہ رزق، اور قبول ہونے والا عمل مانگتا ہوں۔",
+              "english": "O Allah, I ask You for beneficial knowledge, goodly provision, and accepted deeds."
+            },
+            {
+              "id": 17,
+              "category": "Morning",
+              "title": "Declaration of Tawheed",
+              "context": "Reminding oneself of Allah’s oneness",
+              "arabic": "لَا إِلٰهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ، وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+              "urdu": "اللہ کے سوا کوئی معبود نہیں، وہ اکیلا ہے، اس کا کوئی شریک نہیں، اسی کی بادشاہی ہے، اور اسی کے لیے حمد ہے، اور وہ ہر چیز پر قادر ہے۔",
+              "english": "There is no deity but Allah, alone without partner. His is the dominion and His is the praise, and He is over all things competent."
+            },
+            {
+              "id": 18,
+              "category": "Morning",
+              "title": "Dua for Protection from Hellfire",
+              "context": "Morning supplication seeking refuge from Hell",
+              "arabic": "اللَّهُمَّ أَجِرْنِي مِنَ النَّارِ",
+              "urdu": "اے اللہ! مجھے جہنم کی آگ سے بچا لے۔",
+              "english": "O Allah, save me from the Hellfire."
+            },
+            {
+              "id": 19,
+              "category": "Morning",
+              "title": "Dua for Family and Home",
+              "context": "Protection for family and blessings at home",
+              "arabic": "اللَّهُمَّ احْفَظْنِي وَأَهْلِي وَبَيْتِي مِنْ كُلِّ سُوءٍ",
+              "urdu": "اے اللہ! مجھے، میرے اہل و عیال اور میرے گھر کو ہر برائی سے محفوظ رکھ۔",
+              "english": "O Allah, protect me, my family, and my home from all harm."
+            },
+            {
+              "id": 20,
+              "category": "Morning",
+              "title": "Dua for Steadfastness",
+              "context": "Asking Allah to keep one firm on faith",
+              "arabic": "اللَّهُمَّ ثَبِّتْ قَلْبِي عَلَى دِينِكَ",
+              "urdu": "اے اللہ! میرے دل کو اپنے دین پر قائم رکھ۔",
+              "english": "O Allah, make my heart steadfast upon Your religion."
+            },
+            {
+              "id": 21,
+              "category": "Morning",
+              "title": "Dua for Light",
+              "context": "Seeking light in all aspects of life",
+              "arabic": "اللّهُمَّ اجْعَلْ فِي قَلْبِي نُورًا، وَفِي لِسَانِي نُورًا، وَفِي سَمْعِي نُورًا، وَفِي بَصَرِي نُورًا...",
+              "urdu": "اے اللہ! میرے دل میں نور عطا فرما، میری زبان میں نور، میری سماعت میں نور، اور میری بصارت میں نور...۔",
+              "english": "O Allah, place light in my heart, light in my tongue, light in my hearing, and light in my sight..."
+            },
+            {
+              "id": 22,
+              "category": "Morning",
+              "title": "Supplication for Forgiveness",
+              "context": "Asking forgiveness for all sins",
+              "arabic": "اللَّهُمَّ اغْفِرْ لِي ذُنُوبِي كُلَّهَا، دِقَّهَا وَجِلَّهَا، وَأَوَّلَهَا وَآخِرَهَا، وَعَلَانِيَتَهَا وَسِرَّهَا",
+              "urdu": "اے اللہ! میرے تمام گناہوں کو بخش دے، چھوٹے ہوں یا بڑے، شروع کے ہوں یا آخر کے، علانیہ ہوں یا خفیہ۔",
+              "english": "O Allah, forgive all my sins, the minor and major, the first and the last, the open and the hidden."
+            },
+            {
+              "id": 23,
+              "category": "Morning",
+              "title": "Trust in Allah",
+              "context": "Starting the day with reliance on Allah",
+              "arabic": "حَسْبِيَ اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ، عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ",
+              "urdu": "اللہ مجھے کافی ہے، اس کے سوا کوئی معبود نہیں، اسی پر میں نے بھروسہ کیا اور وہی عرش عظیم کا رب ہے۔",
+              "english": "Allah is sufficient for me. There is no deity but Him. On Him I rely, and He is the Lord of the Mighty Throne."
+            },
+            {
+              "id": 24,
+              "category": "Morning",
+              "title": "Seeking Refuge from Anxiety",
+              "context": "Protection from worries and weakness",
+              "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ، وَالْعَجْزِ وَالْكَسَلِ...",
+              "urdu": "اے اللہ! میں تیری پناہ چاہتا ہوں غم و فکر، کمزوری و سستی سے...",
+              "english": "O Allah, I seek refuge in You from anxiety and grief, from incapacity and laziness..."
+            },
+            {
+              "id": 25,
+              "category": "Morning",
+              "title": "Supplication for Peace",
+              "context": "Praying for a calm and peaceful heart",
+              "arabic": "اللَّهُمَّ أَنْتَ السَّلَامُ وَمِنْكَ السَّلَامُ، تَبَارَكْتَ يَا ذَا الْجَلَالِ وَالْإِكْرَامِ",
+              "urdu": "اے اللہ! تو سلامتی والا ہے اور سلامتی تجھ ہی سے ہے، تو بابرکت ہے، اے بزرگی اور عزت والے۔",
+              "english": "O Allah, You are Peace and from You comes peace. Blessed are You, O Owner of majesty and honor."
+            },
+            {
+              "id": 26,
+              "category": "Morning",
+              "title": "Seeking Good of the Day",
+              "context": "Asking Allah for good and protection during the day",
+              "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَ هَذَا الْيَوْمِ، وَفَتْحَهُ، وَنَصْرَهُ، وَنُورَهُ، وَبَرَكَتَهُ، وَهُدَاهُ...",
+              "urdu": "اے اللہ! میں تجھ سے اس دن کی بھلائی، اس کی کامیابی، اس کی روشنی، اس کی برکت، اور اس کی ہدایت مانگتا ہوں...",
+              "english": "O Allah, I ask You for the goodness of this day, its victory, its light, its blessings, and its guidance..."
+            },
+            {
+              "id": 27,
+              "category": "Morning",
+              "title": "Dua for Contentment",
+              "context": "Asking Allah to keep one satisfied",
+              "arabic": "اللَّهُمَّ اجْعَلْنِي قَنُوعًا بِمَا رَزَقْتَنِي",
+              "urdu": "اے اللہ! جو تو نے مجھے رزق دیا ہے اس پر مجھے قناعت عطا فرما۔",
+              "english": "O Allah, make me content with what You have provided me."
+            },
+            {
+              "id": 28,
+              "category": "Morning",
+              "title": "Dua for Long Life in Obedience",
+              "context": "Asking for life spent in Allah’s obedience",
+              "arabic": "اللَّهُمَّ اجْعَلْ خَيْرَ عُمْرِي آخِرَهُ، وَخَيْرَ عَمَلِي خَوَاتِيمَهُ",
+              "urdu": "اے اللہ! میری عمر کا بہترین حصہ اس کا آخری حصہ بنا، اور میرے اعمال کا بہترین حصہ اس کا انجام بنا۔",
+              "english": "O Allah, make the best part of my life its end, and the best of my deeds its conclusion."
+            },
+            {
+              "id": 29,
+              "category": "Morning",
+              "title": "Praise for Waking Up",
+              "context": "Thanking Allah for waking us to a new day",
+              "arabic": "الْـحَمْدُ لِلّٰـهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
+              "urdu": "تمام تعریفیں اس اللہ کے لیے ہیں جس نے ہمیں موت کے بعد زندہ کیا، اور اسی کی طرف لوٹ کر جانا ہے۔",
+              "english": "All praise is for Allah who gave us life after having taken it from us, and to Him is the resurrection."
+            },
+            {
+              "id": 30,
+              "category": "Morning",
+              "title": "Dua for Patience",
+              "context": "Seeking strength to be patient",
+              "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الصَّابِرِينَ",
+              "urdu": "اے اللہ! مجھے صبر کرنے والوں میں شامل فرما۔",
+              "english": "O Allah, make me among the patient."
+            }
+            ,
+                {
+                  "id": 31,
+                  "category": "Morning",
+                  "title": "Protection from Evil",
+                  "context": "For protection against every evil in the morning",
+                  "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْكُفْرِ وَالْفَقْرِ، وَأَعُوذُ بِكَ مِنْ عَذَابِ الْقَبْرِ.",
+                  "urdu": "اے اللہ! میں کفر اور فقر سے، اور عذابِ قبر سے تیری پناہ چاہتا ہوں۔",
+                  "english": "O Allah, I seek refuge in You from disbelief and poverty, and I seek refuge in You from the punishment of the grave."
+                },
+                {
+                  "id": 32,
+                  "category": "Morning",
+                  "title": "Asking for Guidance",
+                  "context": "Morning supplication for guidance and piety",
+                  "arabic": "اللَّهُمَّ اهْدِنِي وَسَدِّدْنِي.",
+                  "urdu": "اے اللہ! مجھے ہدایت دے اور درست بات کہنے کی توفیق عطا فرما۔",
+                  "english": "O Allah, guide me and set me right."
+                },
+                {
+                  "id": 33,
+                  "category": "Morning",
+                  "title": "Thankfulness for Health",
+                  "context": "Morning gratitude for body and blessings",
+                  "arabic": "الْحَمْدُ لِلَّهِ الَّذِي عَافَانِي فِي جَسَدِي، وَرَدَّ عَلَيَّ رُوحِي، وَأَذِنَ لِي بِذِكْرِهِ.",
+                  "urdu": "تمام تعریفیں اس اللہ کے لیے ہیں جس نے میرے جسم کو تندرست رکھا، میری روح لوٹائی، اور مجھے اپنا ذکر کرنے کی اجازت دی۔",
+                  "english": "All praise is for Allah who restored to me my health, returned my soul, and allowed me to remember Him."
+                },
+                {
+                  "id": 34,
+                  "category": "Morning",
+                  "title": "Blessing of New Day",
+                  "context": "Beginning the day with Allah’s blessing",
+                  "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَ هَذَا الْيَوْمِ، فَتْحَهُ وَنَصْرَهُ وَنُورَهُ وَبَرَكَتَهُ وَهُدَاهُ.",
+                  "urdu": "اے اللہ! میں تجھ سے اس دن کی بھلائی، اس کی فتح، نصرت، روشنی، برکت اور ہدایت مانگتا ہوں۔",
+                  "english": "O Allah, I ask You for the good of this day — its victory, support, light, blessing, and guidance."
+                },
+                {
+                  "id": 35,
+                  "category": "Morning",
+                  "title": "Forgiveness in Morning",
+                  "context": "Seeking forgiveness at start of day",
+                  "arabic": "أَسْتَغْفِرُ اللَّهَ الَّذِي لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ وَأَتُوبُ إِلَيْهِ.",
+                  "urdu": "میں اس اللہ سے مغفرت چاہتا ہوں جس کے سوا کوئی معبود نہیں، وہ زندہ اور قائم دائم ہے، اور میں اسی کی طرف رجوع کرتا ہوں۔",
+                  "english": "I seek forgiveness from Allah, there is no deity except Him, the Ever-Living, the Sustainer, and I repent to Him."
+                },
+                {
+                  "id": 36,
+                  "category": "Morning",
+                  "title": "Trust in Allah",
+                  "context": "Expressing trust at the beginning of the day",
+                  "arabic": "حَسْبِيَ اللَّهُ لَا إِلَهَ إِلَّا هُوَ، عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ.",
+                  "urdu": "میرے لیے اللہ کافی ہے، اس کے سوا کوئی معبود نہیں، میں اسی پر توکل کرتا ہوں اور وہی عرش عظیم کا رب ہے۔",
+                  "english": "Allah is sufficient for me, there is no deity except Him. In Him I put my trust, and He is the Lord of the mighty throne."
+                },
+                {
+                  "id": 37,
+                  "category": "Morning",
+                  "title": "Praise in Morning",
+                  "context": "Start of day with praise of Allah",
+                  "arabic": "سُبْحَانَ اللهِ وَالْحَمْدُ لِلّهِ، وَلا إِلـهَ إِلاّ اللّهُ، وَاللّهُ أَكْبَرُ.",
+                  "urdu": "اللہ پاک ہے، تمام تعریفیں اللہ کے لیے ہیں، اللہ کے سوا کوئی معبود نہیں، اللہ سب سے بڑا ہے۔",
+                  "english": "Glory be to Allah, all praise is for Allah, none has the right to be worshipped but Allah, and Allah is the Greatest."
+                },
+                {
+                  "id": 38,
+                  "category": "Morning",
+                  "title": "Supplication for Mercy",
+                  "context": "Asking for Allah’s mercy in the morning",
+                  "arabic": "اللَّهُمَّ ارْحَمْنِي فِي الدُّنْيَا وَالآخِرَةِ.",
+                  "urdu": "اے اللہ! دنیا اور آخرت میں مجھ پر رحم فرما۔",
+                  "english": "O Allah, have mercy on me in this world and in the Hereafter."
+                },
+                {
+                  "id": 39,
+                  "category": "Morning",
+                  "title": "Protection from Laziness",
+                  "context": "Morning supplication for energy and strength",
+                  "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْعَجْزِ وَالْكَسَلِ.",
+                  "urdu": "اے اللہ! میں عاجزی اور سستی سے تیری پناہ مانگتا ہوں۔",
+                  "english": "O Allah, I seek refuge in You from incapacity and laziness."
+                },
+                {
+                  "id": 40,
+                  "category": "Morning",
+                  "title": "Gratitude for New Day",
+                  "context": "Thanking Allah for another day",
+                  "arabic": "الْحَمْدُ لِلّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا، وَإِلَيْهِ النُّشُور.",
+                  "urdu": "تمام تعریفیں اللہ کے لیے ہیں جس نے ہمیں موت کے بعد زندگی دی، اور اسی کی طرف لوٹنا ہے۔",
+                  "english": "All praise is due to Allah who gave us life after He caused us to die, and to Him is the resurrection."
+                },
+                {
+                  "id": 41,
+                  "category": "Morning",
+                  "title": "Supplication for Ease",
+                  "context": "Asking for ease in affairs of the day",
+                  "arabic": "اللَّهُمَّ لَا سَهْلَ إِلَّا مَا جَعَلْتَهُ سَهْلًا، وَأَنْتَ تَجْعَلُ الْحَزْنَ إِذَا شِئْتَ سَهْلًا.",
+                  "urdu": "اے اللہ! آسانی صرف وہی ہے جو تُو آسان کرے، اور تُو ہی مشکل کو آسان کر دیتا ہے جب چاہے۔",
+                  "english": "O Allah, there is no ease except in that which You have made easy, and You make the difficult, if You wish, easy."
+                },
+                {
+                  "id": 42,
+                  "category": "Morning",
+                  "title": "Supplication for Rizq",
+                  "context": "Asking for sustenance in the morning",
+                  "arabic": "اللَّهُمَّ اكْفِنِي بِحَلَالِكَ عَنْ حَرَامِكَ، وَأَغْنِنِي بِفَضْلِكَ عَمَّنْ سِوَاكَ.",
+                  "urdu": "اے اللہ! اپنے حلال کے ذریعے مجھے حرام سے بچا، اور اپنے فضل سے مجھے دوسروں سے بے نیاز کر دے۔",
+                  "english": "O Allah, suffice me with what You have allowed instead of what You have forbidden, and make me independent of all others besides You."
+                },
+                {
+                  "id": 43,
+                  "category": "Morning",
+                  "title": "Renewing Tawheed",
+                  "context": "Morning declaration of Tawheed",
+                  "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ.",
+                  "urdu": "اللہ کے سوا کوئی معبود نہیں، وہ اکیلا ہے، اس کا کوئی شریک نہیں، اسی کی بادشاہی ہے اور تمام تعریفیں اسی کے لیے ہیں، اور وہ ہر چیز پر قادر ہے۔",
+                  "english": "There is no deity except Allah alone, without partner. His is the dominion and His is the praise, and He is over all things competent."
+                },
+                {
+                  "id": 44,
+                  "category": "Morning",
+                  "title": "Supplication for Family",
+                  "context": "Praying for family in morning",
+                  "arabic": "اللَّهُمَّ احْفَظْ لِي أَهْلِي وَوَلَدِي.",
+                  "urdu": "اے اللہ! میرے اہل و عیال اور بچوں کی حفاظت فرما۔",
+                  "english": "O Allah, protect my family and children for me."
+                },
+                {
+                  "id": 45,
+                  "category": "Morning",
+                  "title": "Protection from Hell",
+                  "context": "Morning prayer to be saved from Hellfire",
+                  "arabic": "اللَّهُمَّ أَجِرْنِي مِنَ النَّارِ.",
+                  "urdu": "اے اللہ! مجھے جہنم کی آگ سے بچا۔",
+                  "english": "O Allah, save me from the Hellfire."
+                },
+                {
+                  "id": 46,
+                  "category": "Morning",
+                  "title": "Supplication for Paradise",
+                  "context": "Seeking entry into Paradise",
+                  "arabic": "اللَّهُمَّ اجْعَلْنِي مِنْ أَهْلِ الْجَنَّةِ.",
+                  "urdu": "اے اللہ! مجھے جنت والوں میں شامل فرما۔",
+                  "english": "O Allah, make me among the people of Paradise."
+                },
+                {
+                  "id": 47,
+                  "category": "Morning",
+                  "title": "Supplication for Patience",
+                  "context": "Morning dua to stay patient throughout the day",
+                  "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الصَّابِرِينَ.",
+                  "urdu": "اے اللہ! مجھے صبر کرنے والوں میں شامل فرما۔",
+                  "english": "O Allah, make me among the patient."
+                },
+                {
+                  "id": 48,
+                  "category": "Morning",
+                  "title": "Protection from Envy",
+                  "context": "Dua against jealousy and evil eye",
+                  "arabic": "اللَّهُمَّ اكْفِنِي شَرَّ كُلِّ حَاسِدٍ.",
+                  "urdu": "اے اللہ! ہر حسد کرنے والے کے شر سے مجھے بچا۔",
+                  "english": "O Allah, protect me from the evil of every envier."
+                },
+                {
+                  "id": 49,
+                  "category": "Morning",
+                  "title": "Blessing in Work",
+                  "context": "Seeking barakah in work and efforts",
+                  "arabic": "اللَّهُمَّ بَارِكْ لِي فِي عَمَلِي وَرِزْقِي.",
+                  "urdu": "اے اللہ! میرے کام اور رزق میں برکت عطا فرما۔",
+                  "english": "O Allah, bless my work and my provision."
+                },
+                {
+                  "id": 50,
+                  "category": "Morning",
+                  "title": "Guidance for Decisions",
+                  "context": "Asking for wisdom and clarity",
+                  "arabic": "اللَّهُمَّ اهْدِنِي لِأَحْسَنِ الْأُمُورِ وَصَرِّفْ عَنِّي شَرَّهَا.",
+                  "urdu": "اے اللہ! مجھے بہترین امور کی طرف ہدایت دے اور برے کاموں سے دور فرما۔",
+                  "english": "O Allah, guide me to the best of matters and turn me away from their evil."
+                }
+              
+              
+          
+      
+      
+  ]
+  

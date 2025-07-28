@@ -1,0 +1,467 @@
+[
+    {
+      "id": 1,
+      "category": "Quranic Duas",
+      "title": "Our Lord, accept [this] from us",
+      "context": "Dua of Prophet Ibrahim (A.S.) while building the Kaaba",
+      "arabic": "رَبَّنَا تَقَبَّلْ مِنَّا ۖ إِنَّكَ أَنتَ السَّمِيعُ الْعَلِيمُ",
+      "urdu": "اے ہمارے رب! ہماری طرف سے (یہ عمل) قبول فرما، بے شک تو سننے والا، جاننے والا ہے۔",
+      "english": "Our Lord, accept [this] from us. Indeed, You are the Hearing, the Knowing."
+    },
+    {
+      "id": 2,
+      "category": "Quranic Duas",
+      "title": "Make us Muslims to You",
+      "context": "Submission to Allah",
+      "arabic": "رَبَّنَا وَاجْعَلْنَا مُسْلِمَيْنِ لَكَ",
+      "urdu": "اے ہمارے رب! ہم دونوں کو اپنا فرمانبردار بنا لے۔",
+      "english": "Our Lord, make us Muslims [in submission] to You."
+    },
+    {
+      "id": 3,
+      "category": "Quranic Duas",
+      "title": "Grant us good in this world and hereafter",
+      "context": "Comprehensive dua for both worlds",
+      "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+      "urdu": "اے ہمارے رب! ہمیں دنیا میں بھی بھلائی دے اور آخرت میں بھی بھلائی عطا فرما اور ہمیں آگ کے عذاب سے بچا۔",
+      "english": "Our Lord, give us in this world [that which is] good and in the Hereafter [that which is] good and protect us from the punishment of the Fire."
+    },
+    {
+      "id": 4,
+      "category": "Quranic Duas",
+      "title": "Forgive me, my parents, and the believers",
+      "context": "For self, parents, and the Ummah",
+      "arabic": "رَبِّ اغْفِرْ لِي وَلِوَالِدَيَّ وَلِلْمُؤْمِنِينَ",
+      "urdu": "اے میرے رب! مجھے، میرے والدین کو اور سب مؤمنوں کو بخش دے۔",
+      "english": "My Lord, forgive me, my parents, and the believers."
+    },
+    {
+      "id": 5,
+      "category": "Quranic Duas",
+      "title": "Increase me in knowledge",
+      "context": "Dua of Prophet Muhammad (S.A.W.)",
+      "arabic": "رَّبِّ زِدْنِي عِلْمًا",
+      "urdu": "اے میرے رب! مجھے علم میں اضافہ عطا فرما۔",
+      "english": "My Lord, increase me in knowledge."
+    },
+    {
+      "id": 6,
+      "category": "Quranic Duas",
+      "title": "Do not let our hearts deviate",
+      "context": "For steadfastness in faith",
+      "arabic": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا",
+      "urdu": "اے ہمارے رب! ہمارے دلوں کو ہدایت دینے کے بعد ٹیڑھا نہ ہونے دے۔",
+      "english": "Our Lord, let not our hearts deviate after You have guided us."
+    },
+    {
+      "id": 7,
+      "category": "Quranic Duas",
+      "title": "Grant us mercy from Yourself",
+      "context": "Begging Allah’s mercy",
+      "arabic": "وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً",
+      "urdu": "اور ہمیں اپنے پاس سے رحمت عطا فرما۔",
+      "english": "And grant us from Yourself mercy."
+    },
+    {
+      "id": 8,
+      "category": "Quranic Duas",
+      "title": "Relieve our affliction",
+      "context": "Dua in distress",
+      "arabic": "رَبَّنَا اكْشِفْ عَنَّا الْعَذَابَ إِنَّا مُؤْمِنُونَ",
+      "urdu": "اے ہمارے رب! ہم سے عذاب ہٹا دے، بے شک ہم ایمان لائے۔",
+      "english": "Our Lord, remove from us the punishment; indeed, we are believers."
+    },
+    {
+      "id": 9,
+      "category": "Quranic Duas",
+      "title": "Pour patience upon us",
+      "context": "In hardship and trials",
+      "arabic": "رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا",
+      "urdu": "اے ہمارے رب! ہم پر صبر نازل فرما۔",
+      "english": "Our Lord, pour upon us patience."
+    },
+    {
+      "id": 10,
+      "category": "Quranic Duas",
+      "title": "You are our protector, forgive us",
+      "context": "Seeking Allah’s support and forgiveness",
+      "arabic": "أَنتَ مَوْلَانَا فَاغْفِرْ لَنَا",
+      "urdu": "تو ہی ہمارا مددگار ہے، ہمیں بخش دے۔",
+      "english": "You are our protector, so forgive us."
+    },
+    {
+      "id": 11,
+      "category": "Quranic Duas",
+      "title": "Do not burden us",
+      "context": "Seeking ease from Allah",
+      "arabic": "رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ",
+      "urdu": "اے ہمارے رب! ہم پر وہ بوجھ نہ ڈال جس کی ہم طاقت نہیں رکھتے۔",
+      "english": "Our Lord, and burden us not with that which we have no ability to bear."
+    },
+    {
+      "id": 12,
+      "category": "Quranic Duas",
+      "title": "Grant us victory over the disbelieving people",
+      "context": "Dua for divine help",
+      "arabic": "رَبَّنَا انصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
+      "urdu": "اے ہمارے رب! ہمیں کافروں کے مقابلے میں فتح عطا فرما۔",
+      "english": "Our Lord, grant us victory over the disbelieving people."
+    },
+    {
+      "id": 13,
+      "category": "Quranic Duas",
+      "title": "Forgive us and have mercy upon us",
+      "context": "Seeking forgiveness and mercy",
+      "arabic": "فَاغْفِرْ لَنَا وَارْحَمْنَا ۖ وَأَنتَ خَيْرُ الرَّاحِمِينَ",
+      "urdu": "پس ہمیں بخش دے اور ہم پر رحم فرما، تو سب رحم کرنے والوں سے بہتر ہے۔",
+      "english": "So forgive us and have mercy upon us. And You are the best of the merciful."
+    },
+    {
+      "id": 14,
+      "category": "Quranic Duas",
+      "title": "You are the best of providers",
+      "context": "Acknowledging Allah as the sustainer",
+      "arabic": "وَأَنتَ خَيْرُ الرَّازِقِينَ",
+      "urdu": "اور تو ہی بہترین رزق دینے والا ہے۔",
+      "english": "And You are the best of providers."
+    },
+    {
+      "id": 15,
+      "category": "Quranic Duas",
+      "title": "Guide us to the straight path",
+      "context": "Daily prayer for guidance",
+      "arabic": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+      "urdu": "ہمیں سیدھے راستے کی ہدایت دے۔",
+      "english": "Guide us to the straight path."
+    },
+    {
+      "id": 16,
+      "category": "Quranic Duas",
+      "title": "You are our protector, give us success",
+      "context": "For help and success",
+      "arabic": "أَنتَ وَلِيُّنَا فَانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
+      "urdu": "تو ہمارا دوست ہے، پس ہمیں کافروں کے مقابلے میں کامیابی عطا فرما۔",
+      "english": "You are our protector, so give us victory over the disbelieving people."
+    },
+    {
+      "id": 17,
+      "category": "Quranic Duas",
+      "title": "Enter us into Paradise",
+      "context": "Hope for Jannah",
+      "arabic": "رَبَّنَا وَأَدْخِلْنَا الْجَنَّةَ",
+      "urdu": "اے ہمارے رب! ہمیں جنت میں داخل فرما۔",
+      "english": "Our Lord, admit us into Paradise."
+    },
+    {
+      "id": 18,
+      "category": "Quranic Duas",
+      "title": "Give us a good ending",
+      "context": "Dua for a righteous death",
+      "arabic": "تَوَفَّنَا مُسْلِمِينَ",
+      "urdu": "ہمیں مسلمان ہونے کی حالت میں وفات دے۔",
+      "english": "Cause us to die as Muslims [in submission to You]."
+    },
+    {
+      "id": 19,
+      "category": "Quranic Duas",
+      "title": "Do not disgrace us on the Day of Judgment",
+      "context": "Protection from shame",
+      "arabic": "وَلَا تُخْزِنَا يَوْمَ الْقِيَامَةِ",
+      "urdu": "اور قیامت کے دن ہمیں رسوا نہ کر۔",
+      "english": "And do not disgrace us on the Day of Resurrection."
+    },
+    {
+      "id": 20,
+      "category": "Quranic Duas",
+      "title": "Do not make us a trial for disbelievers",
+      "context": "Avoid being a cause of misguidance",
+      "arabic": "رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِّلَّذِينَ كَفَرُوا",
+      "urdu": "اے ہمارے رب! ہمیں کافروں کے لیے آزمائش نہ بنا۔",
+      "english": "Our Lord, do not make us [an object of] trial for the disbelievers."
+    }
+    ,
+        {
+          "id": 21,
+          "category": "Quranic Duas",
+          "title": "Increase in Knowledge",
+          "context": "Seeking knowledge from Allah",
+          "arabic": "رَّبِّ زِدْنِي عِلْمًا",
+          "urdu": "اے میرے رب! میرے علم میں اضافہ فرما۔",
+          "english": "My Lord, increase me in knowledge."
+        },
+        {
+          "id": 22,
+          "category": "Quranic Duas",
+          "title": "For Mercy",
+          "context": "Seeking Allah’s mercy",
+          "arabic": "رَبِّ اغْفِرْ وَارْحَمْ وَأَنتَ خَيْرُ الرَّاحِمِينَ",
+          "urdu": "اے میرے رب! بخش دے، رحم فرما، اور تو سب رحم کرنے والوں سے بہتر ہے۔",
+          "english": "My Lord, forgive and have mercy, and You are the best of the merciful."
+        },
+        {
+          "id": 23,
+          "category": "Quranic Duas",
+          "title": "For Good in This Life and the Hereafter",
+          "context": "General well-being",
+          "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+          "urdu": "اے ہمارے رب! ہمیں دنیا میں بھلائی عطا فرما اور آخرت میں بھی بھلائی عطا فرما اور ہمیں دوزخ کے عذاب سے بچا۔",
+          "english": "Our Lord, give us good in this world and good in the Hereafter, and protect us from the punishment of the Fire."
+        },
+        {
+          "id": 24,
+          "category": "Quranic Duas",
+          "title": "Forgiveness for Parents",
+          "context": "Dua for one's parents",
+          "arabic": "رَّبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا",
+          "urdu": "اے میرے رب! ان پر رحم فرما جیسے انہوں نے بچپن میں میری پرورش کی۔",
+          "english": "My Lord, have mercy upon them as they brought me up when I was small."
+        },
+        {
+          "id": 25,
+          "category": "Quranic Duas",
+          "title": "Steadfastness",
+          "context": "Asking for firm faith",
+          "arabic": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا",
+          "urdu": "اے ہمارے رب! ہمارے دلوں کو ہدایت دینے کے بعد ٹیڑھا نہ کر۔",
+          "english": "Our Lord, let not our hearts deviate after You have guided us."
+        },
+        {
+          "id": 26,
+          "category": "Quranic Duas",
+          "title": "Seeking Patience and Victory",
+          "context": "Before or during hardship",
+          "arabic": "رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا",
+          "urdu": "اے ہمارے رب! ہم پر صبر نازل فرما اور ہمارے قدم جما دے۔",
+          "english": "Our Lord, pour upon us patience and make our feet firm."
+        },
+        {
+          "id": 27,
+          "category": "Quranic Duas",
+          "title": "Seeking Forgiveness",
+          "context": "Asking Allah for pardon",
+          "arabic": "رَبَّنَا ظَلَمْنَا أَنفُسَنَا",
+          "urdu": "اے ہمارے رب! ہم نے اپنی جانوں پر ظلم کیا۔",
+          "english": "Our Lord, we have wronged ourselves."
+        },
+        {
+          "id": 28,
+          "category": "Quranic Duas",
+          "title": "Avoiding Hellfire",
+          "context": "Dua for salvation",
+          "arabic": "رَبِّ نَجِّنِي مِنَ الْقَوْمِ الظَّالِمِينَ",
+          "urdu": "اے میرے رب! مجھے ظالم قوم سے نجات عطا فرما۔",
+          "english": "My Lord, save me from the wrongdoing people."
+        },
+        {
+          "id": 29,
+          "category": "Quranic Duas",
+          "title": "Protection from Disbelief",
+          "context": "Avoiding disbelief",
+          "arabic": "رَبِّ اجْعَلْنِي مُقِيمَ الصَّلَاةِ وَمِن ذُرِّيَّتِي",
+          "urdu": "اے میرے رب! مجھے اور میری اولاد کو نماز قائم کرنے والا بنا۔",
+          "english": "My Lord, make me an establisher of prayer, and [many] from my descendants."
+        },
+        {
+          "id": 30,
+          "category": "Quranic Duas",
+          "title": "Dua of Yunus (A.S)",
+          "context": "In distress",
+          "arabic": "لَا إِلَٰهَ إِلَّا أَنتَ سُبْحَانَكَ إِنِّي كُنتُ مِنَ الظَّالِمِينَ",
+          "urdu": "تیرے سوا کوئی معبود نہیں، تو پاک ہے، بے شک میں ہی ظالموں میں سے ہوں۔",
+          "english": "There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers."
+        },
+        {
+          "id": 31,
+          "category": "Quranic Duas",
+          "title": "Protection from Pride",
+          "context": "To stay humble",
+          "arabic": "وَاجْنُبْنِي وَبَنِيَّ أَن نَّعْبُدَ الْأَصْنَامَ",
+          "urdu": "اور مجھے اور میری اولاد کو بتوں کی عبادت سے بچا۔",
+          "english": "And keep me and my sons away from worshipping idols."
+        },
+        {
+          "id": 32,
+          "category": "Quranic Duas",
+          "title": "Grant Us Mercy",
+          "context": "General mercy from Allah",
+          "arabic": "وَتَوَفَّنَا مَعَ الْأَبْرَارِ",
+          "urdu": "اور ہمیں نیک لوگوں کے ساتھ موت عطا فرما۔",
+          "english": "And cause us to die with the righteous."
+        },
+        {
+          "id": 33,
+          "category": "Quranic Duas",
+          "title": "Avoiding the Wrongdoers",
+          "context": "Seeking protection",
+          "arabic": "رَبِّ نَجِّنِي وَأَهْلِي مِمَّا يَعْمَلُونَ",
+          "urdu": "اے میرے رب! مجھے اور میرے گھر والوں کو ان کے اعمال سے بچا۔",
+          "english": "My Lord, save me and my family from what they do."
+        },
+        {
+          "id": 34,
+          "category": "Quranic Duas",
+          "title": "Dua for Spouse and Children",
+          "context": "Family blessings",
+          "arabic": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ",
+          "urdu": "اے ہمارے رب! ہمیں ہماری بیویوں اور اولاد سے آنکھوں کی ٹھنڈک عطا فرما۔",
+          "english": "Our Lord, grant us from among our wives and offspring comfort to our eyes."
+        },
+        {
+          "id": 35,
+          "category": "Quranic Duas",
+          "title": "To Enter Paradise",
+          "context": "Asking for Jannah",
+          "arabic": "وَأَدْخِلْنَا الْجَنَّةَ مَعَ الْأَبْرَارِ",
+          "urdu": "اور ہمیں نیک لوگوں کے ساتھ جنت میں داخل فرما۔",
+          "english": "And admit us into Paradise with the righteous."
+        },
+        {
+          "id": 36,
+          "category": "Quranic Duas",
+          "title": "Avoiding Hardship",
+          "context": "For ease",
+          "arabic": "رَبِّ إِنِّي لِمَا أَنزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ",
+          "urdu": "اے میرے رب! میں اس خیر کا محتاج ہوں جو تو نازل فرمائے۔",
+          "english": "My Lord, indeed I am in need of whatever good You send down to me."
+        },
+        {
+          "id": 37,
+          "category": "Quranic Duas",
+          "title": "Seeking Light",
+          "context": "On the Day of Judgment",
+          "arabic": "رَبَّنَا أَتْمِمْ لَنَا نُورَنَا وَاغْفِرْ لَنَا",
+          "urdu": "اے ہمارے رب! ہمارا نور مکمل کر دے اور ہمیں بخش دے۔",
+          "english": "Our Lord, perfect for us our light and forgive us."
+        },
+        {
+          "id": 38,
+          "category": "Quranic Duas",
+          "title": "Dua for Peace",
+          "context": "For heart’s tranquility",
+          "arabic": "فَسَيَكْفِيكَهُمُ اللَّهُ ۚ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+          "urdu": "پس اللہ ہی ان سے تمہاری کفایت کرے گا، اور وہ خوب سننے والا، جاننے والا ہے۔",
+          "english": "But Allah will suffice you against them, and He is the Hearing, the Knowing."
+        },
+        {
+          "id": 39,
+          "category": "Quranic Duas",
+          "title": "Relief from Difficulty",
+          "context": "When in pain or hardship",
+          "arabic": "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+          "urdu": "بے شک ہر تنگی کے ساتھ آسانی ہے۔",
+          "english": "Indeed, with hardship comes ease."
+        },
+        {
+          "id": 40,
+          "category": "Quranic Duas",
+          "title": "Victory from Allah",
+          "context": "Seeking help in battle or trials",
+          "arabic": "وَنُرِيدُ أَن نَّمُنَّ عَلَى الَّذِينَ اسْتُضْعِفُوا",
+          "urdu": "اور ہم چاہتے ہیں کہ ان پر احسان کریں جو کمزور بنائے گئے۔",
+          "english": "And We desired to favor those who were oppressed."
+        }
+        ,
+            {
+              "id": 41,
+              "category": "Quranic Duas",
+              "title": "Increase in Knowledge",
+              "context": "To seek beneficial knowledge",
+              "arabic": "رَبِّ زِدْنِي عِلْمًا",
+              "urdu": "اے میرے رب! میرے علم میں اضافہ فرما۔",
+              "english": "My Lord, increase me in knowledge."
+            },
+            {
+              "id": 42,
+              "category": "Quranic Duas",
+              "title": "Forgiveness for Believers",
+              "context": "For self and others' forgiveness",
+              "arabic": "رَبَّنَا اغْفِرْ لِي وَلِوَالِدَيَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ الْحِسَابُ",
+              "urdu": "اے ہمارے رب! مجھے، میرے والدین کو اور تمام ایمان والوں کو اُس دن بخش دے جب حساب قائم ہوگا۔",
+              "english": "Our Lord, forgive me, my parents, and the believers on the Day the account is established."
+            },
+            {
+              "id": 43,
+              "category": "Quranic Duas",
+              "title": "Steadfastness and Victory",
+              "context": "In battle or difficulty",
+              "arabic": "رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا وَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
+              "urdu": "اے ہمارے رب! ہم پر صبر نازل فرما، ہمارے قدم جمادے اور کافروں کے مقابلے میں ہماری مدد فرما۔",
+              "english": "Our Lord, pour upon us patience, plant firmly our feet, and give us victory over the disbelieving people."
+            },
+            {
+              "id": 44,
+              "category": "Quranic Duas",
+              "title": "Good in this World and Hereafter",
+              "context": "Comprehensive life prayer",
+              "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+              "urdu": "اے ہمارے رب! ہمیں دنیا میں بھی بھلائی عطا فرما، اور آخرت میں بھی بھلائی عطا فرما، اور ہمیں آگ کے عذاب سے بچا۔",
+              "english": "Our Lord, give us in this world good and in the Hereafter good and protect us from the punishment of the Fire."
+            },
+            {
+              "id": 45,
+              "category": "Quranic Duas",
+              "title": "Dua for a Righteous Spouse and Children",
+              "context": "Family blessings",
+              "arabic": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
+              "urdu": "اے ہمارے رب! ہمیں ہماری بیویوں اور اولاد سے آنکھوں کی ٹھنڈک عطا فرما، اور ہمیں پرہیزگاروں کا پیشوا بنا۔",
+              "english": "Our Lord, grant us from among our wives and offspring comfort to our eyes and make us an example for the righteous."
+            },
+            {
+              "id": 46,
+              "category": "Quranic Duas",
+              "title": "Protection from Zina and Sins",
+              "context": "For protection from indecency",
+              "arabic": "رَبِّ إِنِّي أَعُوذُ بِكَ أَنْ أَسْأَلَكَ مَا لَيْسَ لِي بِهِ عِلْمٌ",
+              "urdu": "اے میرے رب! میں اس چیز کے بارے میں سوال کرنے سے تیری پناہ چاہتا ہوں جس کا مجھے علم نہیں۔",
+              "english": "My Lord, I seek refuge with You from asking that of which I have no knowledge."
+            },
+            {
+              "id": 47,
+              "category": "Quranic Duas",
+              "title": "Dua for Acceptance",
+              "context": "To ask Allah to accept deeds",
+              "arabic": "رَبَّنَا تَقَبَّلْ مِنَّا إِنَّكَ أَنْتَ السَّمِيعُ الْعَلِيمُ",
+              "urdu": "اے ہمارے رب! ہماری طرف سے قبول فرما، بے شک تو سب کچھ سننے اور جاننے والا ہے۔",
+              "english": "Our Lord, accept [this] from us. Indeed You are the Hearing, the Knowing."
+            },
+            {
+              "id": 48,
+              "category": "Quranic Duas",
+              "title": "Dua for Mercy",
+              "context": "To receive Allah's mercy",
+              "arabic": "رَبِّ اغْفِرْ وَارْحَمْ وَأَنْتَ خَيْرُ الرَّاحِمِينَ",
+              "urdu": "اے میرے رب! معاف فرما اور رحم فرما، اور تو سب سے بہتر رحم کرنے والا ہے۔",
+              "english": "My Lord, forgive and have mercy, and You are the best of the merciful."
+            },
+            {
+              "id": 49,
+              "category": "Quranic Duas",
+              "title": "Protection from Hellfire",
+              "context": "To seek refuge from Hell",
+              "arabic": "رَبَّنَا إِصْرِفْ عَنَّا عَذَابَ جَهَنَّمَ إِنَّ عَذَابَهَا كَانَ غَرَامًا",
+              "urdu": "اے ہمارے رب! جہنم کا عذاب ہم سے دور فرما دے، بیشک اس کا عذاب دائمی ہے۔",
+              "english": "Our Lord, avert from us the punishment of Hell. Indeed, its punishment is ever adhering."
+            },
+            {
+              "id": 50,
+              "category": "Quranic Duas",
+              "title": "Dua for Guidance",
+              "context": "To stay on the right path",
+              "arabic": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+              "urdu": "ہمیں سیدھے راستے کی ہدایت دے۔",
+              "english": "Guide us to the Straight Path."
+            },
+            {
+              "id": 51,
+              "category": "Quranic Duas",
+              "title": "Ease in Affairs",
+              "context": "When facing difficulties",
+              "arabic": "رَبِّ يَسِّرْ وَلَا تُعَسِّرْ",
+              "urdu": "اے میرے رب! آسانی فرما، مشکل نہ بنا۔",
+              "english": "My Lord, make it easy and do not make it difficult."
+            }
+          
+          
+      
+  ]
+  
